@@ -1,0 +1,121 @@
+advertiser_id,business_name,signup_date,signup_month,first_touch_channel,business_segment,company_size,monthly_budget,region,country,account_tier,sales_assisted,industry,lifecycle_stage,baseline_90d_value,eligible_advantage_plus,eligible_capi,eligible_business_messaging
+1,Advertiser 001,2024-06-29,2024-06,sales_outreach,Beauty DTC,Micro,2500,Southeast,US,Scaled,0,Beauty,Activated,18434,1,0,1
+2,Advertiser 002,2024-09-17,2024-09,email,Grocery SMB,Micro,2500,Southeast,US,Scaled,0,Beauty,At Risk,83907,1,1,0
+3,Advertiser 003,2024-10-18,2024-10,organic_search,Apparel DTC,Medium,12000,Southwest,US,Mid-Market,1,Retail,Activated,60392,1,1,0
+4,Advertiser 004,2024-08-26,2024-08,email,Pet Supplies,Micro,3500,Northeast,US,Scaled,0,Healthcare,Growing,84131,1,1,1
+5,Advertiser 005,2024-07-02,2024-07,email,Health & Wellness,Medium,12000,Midwest,US,Mid-Market,0,SaaS,Growing,80674,1,1,0
+6,Advertiser 006,2024-08-14,2024-08,organic_search,B2B SaaS,Micro,3500,Northeast,US,Scaled,0,Travel,Growing,64429,1,1,1
+7,Advertiser 007,2024-07-24,2024-07,sales_outreach,Local Services,Small,8000,Northeast,US,Scaled,0,SaaS,Activated,75010,1,1,1
+8,Advertiser 008,2024-10-21,2024-10,sales_outreach,Furniture Retail,Small,6500,Northeast,US,Scaled,0,Beauty,New,46347,1,1,0
+9,Advertiser 009,2024-10-24,2024-10,organic_search,Professional Services,Medium,10000,West,US,Scaled,0,Travel,Mature,23726,1,1,0
+10,Advertiser 010,2024-08-07,2024-08,in_app_prompt,Local Services,Large,30000,Southwest,US,Enterprise,1,Beauty,Activated,71784,1,0,0
+11,Advertiser 011,2024-07-10,2024-07,sales_outreach,Pet Supplies,Small,5000,Southwest,US,Scaled,0,CPG,Mature,55019,1,1,1
+12,Advertiser 012,2024-10-20,2024-10,sales_outreach,Travel,Micro,2500,Northeast,US,Scaled,0,Services,Growing,89012,1,1,1
+13,Advertiser 013,2024-06-01,2024-06,webinar,Education,Small,8000,Southeast,US,Scaled,0,Services,New,86959,1,1,0
+14,Advertiser 014,2024-07-10,2024-07,organic_search,Health & Wellness,Medium,10000,Southwest,US,Scaled,0,Retail,At Risk,47487,1,1,1
+15,Advertiser 015,2024-08-18,2024-08,email,Electronics Retail,Small,6500,Southwest,US,Scaled,0,CPG,New,68699,0,0,0
+16,Advertiser 016,2024-07-03,2024-07,sales_outreach,Apparel DTC,Small,5000,Southwest,US,Scaled,0,Technology,Growing,74163,0,1,1
+17,Advertiser 017,2024-10-17,2024-10,sales_outreach,Beauty DTC,Small,6500,West,US,Scaled,0,Healthcare,Mature,72839,1,1,1
+18,Advertiser 018,2024-06-06,2024-06,webinar,Electronics Retail,Large,30000,Southwest,US,Enterprise,1,CPG,New,35007,1,1,1
+19,Advertiser 019,2024-10-10,2024-10,paid_social,Professional Services,Small,6500,West,US,Scaled,0,Beauty,At Risk,22342,1,0,0
+20,Advertiser 020,2024-08-02,2024-08,in_app_prompt,Electronics Retail,Medium,15000,Northeast,US,Mid-Market,1,Travel,Growing,60519,1,0,1
+21,Advertiser 021,2024-06-26,2024-06,in_app_prompt,Travel,Micro,2500,Midwest,US,Scaled,0,CPG,Activated,30112,1,1,1
+22,Advertiser 022,2024-08-11,2024-08,organic_search,B2B SaaS,Medium,15000,Northeast,US,Mid-Market,1,Services,New,11630,1,1,1
+23,Advertiser 023,2024-06-24,2024-06,organic_search,Pet Supplies,Small,6500,West,US,Scaled,0,Education,Activated,57565,0,1,1
+24,Advertiser 024,2024-09-08,2024-09,in_app_prompt,Beauty DTC,Small,8000,West,US,Scaled,0,Services,Mature,25289,1,1,1
+25,Advertiser 025,2024-10-17,2024-10,sales_outreach,Furniture Retail,Micro,2500,Northeast,US,Scaled,0,Retail,At Risk,67493,1,0,1
+26,Advertiser 026,2024-10-09,2024-10,organic_search,Grocery SMB,Micro,3500,Southwest,US,Scaled,0,CPG,Activated,57923,1,0,1
+27,Advertiser 027,2024-06-11,2024-06,email,Pet Supplies,Large,30000,Southwest,US,Enterprise,0,Healthcare,Growing,31772,1,1,1
+28,Advertiser 028,2024-07-04,2024-07,in_app_prompt,Furniture Retail,Small,8000,Northeast,US,Scaled,0,Retail,Mature,86416,0,0,1
+29,Advertiser 029,2024-07-25,2024-07,paid_social,Food & Bev,Large,20000,Midwest,US,Mid-Market,0,Beauty,Growing,42353,1,0,0
+30,Advertiser 030,2024-10-14,2024-10,sales_outreach,B2B SaaS,Micro,2500,Southwest,US,Scaled,0,Home,New,22601,1,0,0
+31,Advertiser 031,2024-07-10,2024-07,paid_social,Home & Decor,Small,8000,Southeast,US,Scaled,0,Healthcare,Activated,88130,0,1,1
+32,Advertiser 032,2024-06-14,2024-06,sales_outreach,Pet Supplies,Micro,3500,Midwest,US,Scaled,0,Retail,New,48719,1,1,1
+33,Advertiser 033,2024-09-22,2024-09,sales_outreach,Pet Supplies,Large,20000,Southwest,US,Mid-Market,1,CPG,Activated,76511,1,1,0
+34,Advertiser 034,2024-09-19,2024-09,email,Beauty DTC,Small,5000,Midwest,US,Scaled,0,Retail,Growing,32535,1,1,1
+35,Advertiser 035,2024-10-22,2024-10,webinar,Travel,Medium,12000,Southeast,US,Mid-Market,0,Beauty,Activated,28206,0,1,0
+36,Advertiser 036,2024-08-25,2024-08,sales_outreach,B2B SaaS,Medium,12000,Southeast,US,Mid-Market,1,CPG,Mature,10075,0,1,0
+37,Advertiser 037,2024-09-26,2024-09,paid_social,B2B SaaS,Medium,10000,Southeast,US,Scaled,0,Beauty,New,30313,1,1,1
+38,Advertiser 038,2024-08-11,2024-08,sales_outreach,Health & Wellness,Medium,10000,West,US,Scaled,0,Services,Growing,8617,1,0,1
+39,Advertiser 039,2024-08-07,2024-08,email,Home & Decor,Micro,2500,West,US,Scaled,0,Healthcare,Growing,62199,1,1,1
+40,Advertiser 040,2024-10-26,2024-10,paid_social,Fashion DTC,Small,6500,West,US,Scaled,0,Retail,At Risk,75575,1,0,0
+41,Advertiser 041,2024-07-21,2024-07,in_app_prompt,Grocery SMB,Medium,10000,Midwest,US,Scaled,0,SaaS,Growing,21334,1,1,1
+42,Advertiser 042,2024-09-13,2024-09,in_app_prompt,Travel,Medium,10000,Midwest,US,Scaled,0,Services,Activated,30144,1,0,0
+43,Advertiser 043,2024-07-15,2024-07,webinar,Beauty DTC,Large,30000,West,US,Enterprise,1,Retail,Growing,42606,1,0,0
+44,Advertiser 044,2024-08-22,2024-08,in_app_prompt,Apparel DTC,Medium,15000,Southeast,US,Mid-Market,1,Technology,New,42196,1,1,1
+45,Advertiser 045,2024-07-31,2024-07,organic_search,Education,Small,8000,Southeast,US,Scaled,0,Technology,New,11057,1,1,0
+46,Advertiser 046,2024-06-19,2024-06,in_app_prompt,Local Services,Medium,15000,Southwest,US,Mid-Market,1,Travel,Mature,57383,1,1,1
+47,Advertiser 047,2024-06-28,2024-06,organic_search,Food & Bev,Medium,12000,Southwest,US,Mid-Market,1,Services,Activated,20906,1,0,0
+48,Advertiser 048,2024-10-22,2024-10,paid_social,Education,Large,30000,West,US,Enterprise,0,Services,Mature,76810,1,1,0
+49,Advertiser 049,2024-09-24,2024-09,organic_search,B2B SaaS,Small,8000,Midwest,US,Scaled,0,Services,Mature,87149,1,1,0
+50,Advertiser 050,2024-07-31,2024-07,paid_social,Furniture Retail,Small,8000,Southwest,US,Scaled,0,CPG,Activated,24769,1,1,0
+51,Advertiser 051,2024-06-17,2024-06,in_app_prompt,Furniture Retail,Medium,12000,Southwest,US,Mid-Market,1,Retail,Activated,60069,1,0,0
+52,Advertiser 052,2024-06-06,2024-06,in_app_prompt,Apparel DTC,Large,30000,Northeast,US,Enterprise,0,Home,Mature,59921,1,0,0
+53,Advertiser 053,2024-07-27,2024-07,organic_search,Beauty DTC,Medium,15000,West,US,Mid-Market,1,Travel,Growing,57994,1,0,0
+54,Advertiser 054,2024-10-15,2024-10,in_app_prompt,Home & Decor,Micro,2500,Southwest,US,Scaled,0,Retail,New,89246,1,0,1
+55,Advertiser 055,2024-08-06,2024-08,paid_social,Electronics Retail,Medium,12000,West,US,Mid-Market,1,Travel,Growing,60255,1,1,1
+56,Advertiser 056,2024-10-17,2024-10,paid_social,Electronics Retail,Micro,2500,Northeast,US,Scaled,0,Retail,New,37411,1,1,1
+57,Advertiser 057,2024-07-03,2024-07,sales_outreach,Grocery SMB,Medium,15000,Southwest,US,Mid-Market,0,Education,Growing,53351,1,1,0
+58,Advertiser 058,2024-06-30,2024-06,paid_social,Grocery SMB,Small,5000,Southwest,US,Scaled,0,Retail,Growing,80470,1,0,1
+59,Advertiser 059,2024-07-21,2024-07,webinar,Travel,Micro,3500,Southeast,US,Scaled,0,CPG,Growing,83697,0,0,0
+60,Advertiser 060,2024-06-11,2024-06,webinar,Pet Supplies,Medium,10000,Midwest,US,Scaled,0,CPG,At Risk,89874,1,0,0
+61,Advertiser 061,2024-06-28,2024-06,paid_social,Professional Services,Medium,12000,West,US,Mid-Market,0,Travel,Activated,73386,0,1,0
+62,Advertiser 062,2024-10-16,2024-10,in_app_prompt,Pet Supplies,Medium,15000,Southwest,US,Mid-Market,1,Beauty,New,41559,0,1,1
+63,Advertiser 063,2024-09-06,2024-09,email,Apparel DTC,Medium,10000,Midwest,US,Scaled,0,Technology,Mature,32802,1,1,1
+64,Advertiser 064,2024-08-10,2024-08,email,Health & Wellness,Large,20000,Southeast,US,Mid-Market,1,Travel,Mature,77768,1,1,0
+65,Advertiser 065,2024-10-04,2024-10,email,Grocery SMB,Medium,15000,Midwest,US,Mid-Market,1,Beauty,Growing,81225,1,1,1
+66,Advertiser 066,2024-10-19,2024-10,paid_social,Travel,Medium,10000,West,US,Scaled,0,Home,Growing,37951,1,0,1
+67,Advertiser 067,2024-10-16,2024-10,organic_search,Electronics Retail,Small,5000,West,US,Scaled,0,Home,At Risk,73765,1,0,0
+68,Advertiser 068,2024-08-15,2024-08,paid_social,Food & Bev,Small,6500,Midwest,US,Scaled,0,Retail,At Risk,21591,1,0,0
+69,Advertiser 069,2024-07-03,2024-07,email,B2B SaaS,Medium,15000,Northeast,US,Mid-Market,0,Education,Mature,62733,1,0,1
+70,Advertiser 070,2024-10-01,2024-10,email,Pet Supplies,Micro,3500,West,US,Scaled,0,CPG,At Risk,87502,1,1,0
+71,Advertiser 071,2024-08-17,2024-08,organic_search,Grocery SMB,Micro,3500,Southwest,US,Scaled,0,Travel,At Risk,83135,0,1,0
+72,Advertiser 072,2024-09-24,2024-09,paid_social,B2B SaaS,Medium,15000,Southwest,US,Mid-Market,0,Home,At Risk,86399,1,0,1
+73,Advertiser 073,2024-07-24,2024-07,paid_social,Professional Services,Small,6500,Northeast,US,Scaled,0,Technology,Activated,27782,1,1,1
+74,Advertiser 074,2024-09-29,2024-09,email,Electronics Retail,Small,8000,Midwest,US,Scaled,0,Home,Mature,14329,1,0,0
+75,Advertiser 075,2024-10-29,2024-10,in_app_prompt,Grocery SMB,Small,6500,Southwest,US,Scaled,0,Beauty,Activated,39816,0,1,1
+76,Advertiser 076,2024-08-18,2024-08,sales_outreach,B2B SaaS,Large,30000,Southwest,US,Enterprise,0,Education,New,66433,1,1,0
+77,Advertiser 077,2024-10-07,2024-10,in_app_prompt,Apparel DTC,Large,20000,Northeast,US,Mid-Market,0,Travel,Growing,84129,1,1,0
+78,Advertiser 078,2024-10-26,2024-10,email,Education,Large,30000,Midwest,US,Enterprise,0,Technology,Mature,73021,1,0,1
+79,Advertiser 079,2024-10-28,2024-10,sales_outreach,B2B SaaS,Medium,12000,West,US,Mid-Market,0,Education,Growing,58523,1,1,0
+80,Advertiser 080,2024-08-24,2024-08,sales_outreach,Apparel DTC,Medium,12000,Midwest,US,Mid-Market,0,Travel,At Risk,9809,1,1,1
+81,Advertiser 081,2024-09-12,2024-09,email,Professional Services,Large,20000,Southwest,US,Mid-Market,1,Retail,Activated,72952,1,0,0
+82,Advertiser 082,2024-06-14,2024-06,paid_social,Health & Wellness,Small,6500,Southeast,US,Scaled,0,Home,Mature,68532,1,0,0
+83,Advertiser 083,2024-08-01,2024-08,paid_social,Health & Wellness,Small,5000,Northeast,US,Scaled,0,Services,Mature,17217,1,0,1
+84,Advertiser 084,2024-07-01,2024-07,in_app_prompt,Local Services,Small,5000,Midwest,US,Scaled,0,Services,Growing,59459,0,0,1
+85,Advertiser 085,2024-10-20,2024-10,in_app_prompt,Electronics Retail,Small,5000,Southwest,US,Scaled,0,Services,Activated,14150,1,0,1
+86,Advertiser 086,2024-10-08,2024-10,email,Beauty DTC,Small,8000,Midwest,US,Scaled,0,SaaS,At Risk,69178,0,1,0
+87,Advertiser 087,2024-08-25,2024-08,webinar,Pet Supplies,Large,20000,West,US,Mid-Market,0,Beauty,Activated,79946,1,0,1
+88,Advertiser 088,2024-08-21,2024-08,sales_outreach,Local Services,Medium,15000,West,US,Mid-Market,1,Technology,Mature,9852,1,0,1
+89,Advertiser 089,2024-06-26,2024-06,email,Health & Wellness,Medium,15000,West,US,Mid-Market,1,Technology,Mature,25232,1,0,1
+90,Advertiser 090,2024-09-10,2024-09,paid_social,B2B SaaS,Micro,3500,Southwest,US,Scaled,0,Travel,Growing,87155,1,0,0
+91,Advertiser 091,2024-06-10,2024-06,email,Electronics Retail,Large,30000,Midwest,US,Enterprise,0,CPG,Mature,17903,1,1,1
+92,Advertiser 092,2024-07-13,2024-07,email,Fashion DTC,Small,8000,Midwest,US,Scaled,0,Retail,Growing,51984,1,1,0
+93,Advertiser 093,2024-10-23,2024-10,organic_search,Food & Bev,Small,5000,Northeast,US,Scaled,0,SaaS,Mature,86226,1,1,0
+94,Advertiser 094,2024-07-30,2024-07,sales_outreach,Beauty DTC,Medium,15000,West,US,Mid-Market,1,Retail,Mature,42700,1,1,1
+95,Advertiser 095,2024-08-28,2024-08,paid_social,Professional Services,Large,30000,West,US,Enterprise,0,Education,Growing,31111,0,0,1
+96,Advertiser 096,2024-09-06,2024-09,paid_social,Home & Decor,Large,30000,Midwest,US,Enterprise,0,Home,New,56879,1,1,0
+97,Advertiser 097,2024-06-13,2024-06,sales_outreach,Apparel DTC,Large,30000,Midwest,US,Enterprise,0,Beauty,At Risk,51179,1,1,1
+98,Advertiser 098,2024-07-06,2024-07,sales_outreach,Professional Services,Micro,3500,Northeast,US,Scaled,0,Home,Mature,9373,1,0,1
+99,Advertiser 099,2024-08-15,2024-08,sales_outreach,Pet Supplies,Medium,10000,Southeast,US,Scaled,0,Beauty,Activated,75701,0,1,0
+100,Advertiser 100,2024-08-09,2024-08,paid_social,Local Services,Small,5000,West,US,Scaled,0,Home,Growing,20095,1,1,0
+101,Advertiser 101,2024-07-28,2024-07,webinar,Furniture Retail,Medium,12000,Northeast,US,Mid-Market,0,Retail,Growing,75329,1,1,0
+102,Advertiser 102,2024-08-07,2024-08,in_app_prompt,B2B SaaS,Large,30000,Midwest,US,Enterprise,1,Beauty,Mature,8280,1,0,1
+103,Advertiser 103,2024-07-27,2024-07,sales_outreach,B2B SaaS,Micro,3500,West,US,Scaled,0,Home,Mature,20292,1,0,1
+104,Advertiser 104,2024-10-05,2024-10,email,Electronics Retail,Micro,3500,Southwest,US,Scaled,0,Technology,Mature,64459,1,0,0
+105,Advertiser 105,2024-10-17,2024-10,webinar,Travel,Medium,12000,Southeast,US,Mid-Market,0,CPG,Mature,85694,1,0,1
+106,Advertiser 106,2024-09-03,2024-09,in_app_prompt,Apparel DTC,Small,6500,Southeast,US,Scaled,0,Healthcare,New,53147,1,0,1
+107,Advertiser 107,2024-09-10,2024-09,organic_search,Grocery SMB,Small,8000,West,US,Scaled,0,CPG,Activated,89109,1,0,1
+108,Advertiser 108,2024-08-25,2024-08,organic_search,Education,Small,6500,Southwest,US,Scaled,0,Beauty,New,77641,1,1,0
+109,Advertiser 109,2024-08-24,2024-08,webinar,Fashion DTC,Small,5000,Midwest,US,Scaled,0,Technology,Activated,75807,1,1,0
+110,Advertiser 110,2024-06-07,2024-06,email,Furniture Retail,Small,5000,Southeast,US,Scaled,0,SaaS,Growing,7068,1,1,0
+111,Advertiser 111,2024-10-13,2024-10,sales_outreach,Grocery SMB,Micro,3500,West,US,Scaled,0,Education,Growing,72271,1,1,1
+112,Advertiser 112,2024-06-12,2024-06,paid_social,Apparel DTC,Large,20000,Northeast,US,Mid-Market,1,Education,Mature,60872,1,1,0
+113,Advertiser 113,2024-06-19,2024-06,paid_social,Home & Decor,Micro,3500,Southeast,US,Scaled,0,CPG,Activated,41046,1,1,0
+114,Advertiser 114,2024-09-06,2024-09,webinar,Beauty DTC,Large,30000,West,US,Enterprise,1,Travel,New,19996,0,1,0
+115,Advertiser 115,2024-07-26,2024-07,in_app_prompt,Local Services,Medium,12000,Southeast,US,Mid-Market,1,Education,Mature,59524,1,1,1
+116,Advertiser 116,2024-08-05,2024-08,organic_search,Professional Services,Medium,10000,West,US,Scaled,0,CPG,New,16188,1,1,0
+117,Advertiser 117,2024-07-04,2024-07,email,Home & Decor,Large,20000,Southwest,US,Mid-Market,0,CPG,Mature,51346,0,0,1
+118,Advertiser 118,2024-06-14,2024-06,webinar,Beauty DTC,Small,8000,Midwest,US,Scaled,0,CPG,At Risk,71507,1,1,1
+119,Advertiser 119,2024-06-28,2024-06,webinar,Furniture Retail,Medium,10000,Northeast,US,Scaled,0,Home,At Risk,34643,0,0,0
+120,Advertiser 120,2024-10-21,2024-10,webinar,Local Services,Micro,2500,Midwest,US,Scaled,0,Retail,Activated,40818,1,1,1

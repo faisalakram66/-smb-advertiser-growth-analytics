@@ -1,0 +1,824 @@
+touch_id,advertiser_id,touch_date,channel,campaign_name,touch_type,impressions,clicks,email_open,email_click,webinar_attended,in_product_view,cta_click,cost,converted_to_adoption,attributed_revenue
+1,1,2024-12-04,webinar,Grow with Meta,education,1363,33,0,0,1,0,0,929.92,0,0.0
+2,1,2024-08-17,in_product,Always On,education,19780,1322,0,0,0,1,0,65.82,0,0.0
+3,1,2024-11-12,in_product,Holiday Growth,awareness,2290,39,0,0,0,1,1,100.01,0,0.0
+4,1,2024-11-20,paid_social,Always On,education,16068,933,0,0,0,0,0,165.93,0,0.0
+5,2,2024-10-02,paid_social,Holiday Growth,awareness,921,60,0,0,0,0,0,118.27,0,0.0
+6,2,2024-12-23,webinar,Holiday Growth,retention,772,13,0,0,0,0,1,665.05,0,0.0
+7,2,2024-12-28,webinar,Automate for Growth,retention,2073,144,0,0,0,0,0,831.98,0,0.0
+8,2,2024-07-11,organic_search,Measurement Matters,awareness,757,17,0,0,0,0,0,138.65,0,0.0
+9,2,2024-11-24,organic_search,Always On,consideration,1238,28,0,0,0,0,0,12.3,0,0.0
+10,3,2024-11-24,in_product,Grow with Meta,awareness,2177,67,0,0,0,1,0,143.11,0,0.0
+11,3,2024-09-28,partner,Grow with Meta,awareness,612,32,0,0,0,0,1,1112.23,0,0.0
+12,3,2024-08-19,organic_search,Grow with Meta,retention,815,33,0,0,0,0,0,110.24,0,0.0
+13,3,2024-07-22,partner,Measurement Matters,retention,805,59,0,0,0,0,0,1190.61,0,0.0
+14,4,2024-07-31,email,Holiday Growth,activation,2494,193,1,1,0,0,1,22.77,0,0.0
+15,4,2024-07-23,in_product,Grow with Meta,awareness,24664,1344,0,0,0,1,1,90.88,0,0.0
+16,4,2024-12-06,in_product,Grow with Meta,activation,13196,169,0,0,0,1,0,6.28,0,0.0
+17,4,2024-10-21,paid_social,Measurement Matters,education,23692,727,0,0,0,0,0,634.99,0,0.0
+18,4,2024-07-04,webinar,Measurement Matters,activation,2989,62,0,0,1,0,1,456.34,0,0.0
+19,4,2024-09-11,sales_outreach,Measurement Matters,awareness,2725,179,0,0,0,0,0,15.54,0,0.0
+20,4,2024-09-25,email,Grow with Meta,retention,1166,7,0,0,0,0,0,78.72,0,0.0
+21,5,2024-11-29,organic_search,Measurement Matters,consideration,552,8,0,0,0,0,1,19.32,0,0.0
+22,5,2024-12-15,organic_search,Grow with Meta,education,2956,99,0,0,0,0,0,121.57,0,0.0
+23,5,2024-07-05,sales_outreach,Grow with Meta,education,2732,130,0,0,0,0,1,116.88,0,0.0
+24,5,2024-11-16,in_product,Automate for Growth,activation,3888,60,0,0,0,1,1,140.28,0,0.0
+25,5,2024-08-09,organic_search,Grow with Meta,education,534,11,0,0,0,0,1,141.23,0,0.0
+26,5,2024-08-29,in_product,Always On,activation,1764,64,0,0,0,1,0,24.29,0,0.0
+27,5,2024-07-22,organic_search,Holiday Growth,activation,248,4,0,0,0,0,0,66.47,0,0.0
+28,5,2024-12-14,partner,Grow with Meta,consideration,2420,16,0,0,0,0,1,151.78,0,0.0
+29,5,2024-07-02,organic_search,Measurement Matters,consideration,1070,81,0,0,0,0,1,131.79,0,0.0
+30,6,2024-10-12,paid_social,Holiday Growth,retention,1922,27,0,0,0,0,0,1089.58,0,0.0
+31,6,2024-12-07,partner,Grow with Meta,consideration,2621,101,0,0,0,0,0,944.21,0,0.0
+32,6,2024-10-17,in_product,Measurement Matters,education,19338,1078,0,0,0,1,0,55.8,0,0.0
+33,6,2024-07-01,organic_search,Grow with Meta,awareness,1965,133,0,0,0,0,1,121.51,0,0.0
+34,7,2024-10-14,email,Always On,education,486,31,0,0,0,0,1,4.0,0,0.0
+35,7,2024-11-17,email,Grow with Meta,retention,1841,64,0,0,0,0,1,24.28,0,0.0
+36,7,2024-09-26,email,Grow with Meta,activation,2977,164,0,0,0,0,1,4.57,0,0.0
+37,7,2024-07-13,email,Automate for Growth,consideration,801,34,1,1,0,0,1,106.89,0,0.0
+38,7,2024-08-20,webinar,Grow with Meta,awareness,1129,47,0,0,1,0,0,137.05,0,0.0
+39,7,2024-10-18,webinar,Holiday Growth,retention,1783,33,0,0,0,0,0,426.4,0,0.0
+40,7,2024-12-19,organic_search,Measurement Matters,retention,2033,14,0,0,0,0,1,0.82,0,0.0
+41,7,2024-09-04,in_product,Holiday Growth,activation,5131,342,0,0,0,1,0,65.92,0,0.0
+42,8,2024-08-05,partner,Holiday Growth,awareness,610,6,0,0,0,0,0,629.54,0,0.0
+43,8,2024-07-18,email,Grow with Meta,awareness,236,18,1,0,0,0,1,49.55,0,0.0
+44,8,2024-07-10,in_product,Grow with Meta,consideration,19285,798,0,0,0,1,0,137.09,0,0.0
+45,8,2024-12-09,webinar,Automate for Growth,retention,967,44,0,0,0,0,1,857.88,0,0.0
+46,8,2024-11-06,email,Grow with Meta,retention,1291,30,0,0,0,0,1,117.67,1,9353.1
+47,8,2024-10-10,organic_search,Always On,retention,2649,178,0,0,0,0,0,139.39,0,0.0
+48,8,2024-07-31,in_product,Holiday Growth,activation,20935,455,0,0,0,1,1,69.49,0,0.0
+49,9,2024-11-02,webinar,Automate for Growth,awareness,1199,15,0,0,0,0,0,178.13,0,0.0
+50,9,2024-10-20,in_product,Measurement Matters,education,15726,752,0,0,0,1,1,124.64,0,0.0
+51,9,2024-11-27,sales_outreach,Always On,awareness,2822,218,0,0,0,0,0,89.27,0,0.0
+52,9,2024-10-19,webinar,Measurement Matters,awareness,1828,119,0,0,1,0,0,316.94,0,0.0
+53,9,2024-08-13,paid_social,Grow with Meta,awareness,15312,135,0,0,0,0,0,1084.89,0,0.0
+54,9,2024-12-09,in_product,Automate for Growth,awareness,1800,122,0,0,0,1,0,98.89,0,0.0
+55,9,2024-12-23,partner,Always On,retention,2236,169,0,0,0,0,0,282.25,0,0.0
+56,9,2024-07-29,webinar,Grow with Meta,activation,2440,104,0,0,0,0,0,1081.0,0,0.0
+57,10,2024-12-17,sales_outreach,Always On,awareness,2202,94,0,0,0,0,0,43.46,0,0.0
+58,10,2024-09-16,partner,Always On,education,290,22,0,0,0,0,0,1073.0,0,0.0
+59,10,2024-11-11,paid_social,Always On,education,24833,348,0,0,0,0,0,1060.13,0,0.0
+60,10,2024-07-16,webinar,Grow with Meta,consideration,1804,140,0,0,0,0,0,646.92,0,0.0
+61,11,2024-10-06,email,Always On,awareness,1716,69,0,0,0,0,1,126.39,0,0.0
+62,11,2024-08-10,organic_search,Always On,activation,2440,85,0,0,0,0,0,100.2,0,0.0
+63,11,2024-11-07,sales_outreach,Measurement Matters,activation,2419,61,0,0,0,0,1,100.56,0,0.0
+64,11,2024-10-31,sales_outreach,Grow with Meta,consideration,1607,77,0,0,0,0,0,139.53,0,0.0
+65,11,2024-10-17,email,Grow with Meta,consideration,2412,76,0,0,0,0,1,118.57,0,0.0
+66,11,2024-11-02,in_product,Automate for Growth,retention,1443,60,0,0,0,1,0,37.22,0,0.0
+67,11,2024-12-16,webinar,Holiday Growth,education,919,27,0,0,0,0,1,1117.21,0,0.0
+68,11,2024-12-11,organic_search,Automate for Growth,retention,2622,21,0,0,0,0,0,63.24,0,0.0
+69,12,2024-09-18,in_product,Measurement Matters,awareness,17918,423,0,0,0,1,1,91.77,1,7069.37
+70,12,2024-11-26,in_product,Measurement Matters,activation,381,6,0,0,0,1,1,57.89,1,14034.56
+71,12,2024-08-26,organic_search,Automate for Growth,retention,2223,102,0,0,0,0,1,145.15,0,0.0
+72,12,2024-09-05,in_product,Holiday Growth,activation,17456,999,0,0,0,1,1,6.16,0,0.0
+73,12,2024-07-06,paid_social,Always On,awareness,24671,1098,0,0,0,0,0,81.78,0,0.0
+74,12,2024-09-02,email,Automate for Growth,retention,1229,12,0,0,0,0,1,134.41,0,0.0
+75,12,2024-07-28,sales_outreach,Measurement Matters,education,669,53,0,0,0,0,0,107.21,0,0.0
+76,13,2024-11-20,sales_outreach,Always On,awareness,1670,120,0,0,0,0,1,147.15,1,4190.43
+77,13,2024-10-01,in_product,Automate for Growth,consideration,10894,691,0,0,0,1,0,136.5,0,0.0
+78,13,2024-12-14,in_product,Grow with Meta,education,4740,116,0,0,0,1,0,64.34,0,0.0
+79,13,2024-07-17,sales_outreach,Holiday Growth,activation,1185,30,0,0,0,0,0,62.46,0,0.0
+80,13,2024-11-17,sales_outreach,Grow with Meta,retention,268,16,0,0,0,0,1,38.8,0,0.0
+81,13,2024-09-08,webinar,Grow with Meta,activation,2988,15,0,0,0,0,0,174.55,0,0.0
+82,13,2024-09-22,organic_search,Always On,education,1695,74,0,0,0,0,0,118.09,0,0.0
+83,14,2024-11-15,sales_outreach,Always On,education,1543,117,0,0,0,0,0,92.47,0,0.0
+84,14,2024-11-07,sales_outreach,Holiday Growth,retention,2383,82,0,0,0,0,0,66.05,0,0.0
+85,14,2024-09-19,organic_search,Grow with Meta,awareness,2821,202,0,0,0,0,1,51.04,0,0.0
+86,14,2024-10-01,email,Measurement Matters,activation,2514,37,0,0,0,0,1,126.72,0,0.0
+87,14,2024-07-16,sales_outreach,Measurement Matters,retention,183,5,0,0,0,0,1,11.79,0,0.0
+88,14,2024-08-02,webinar,Grow with Meta,retention,2275,149,0,0,1,0,1,492.95,0,0.0
+89,14,2024-07-07,webinar,Always On,retention,1065,31,0,0,0,0,0,9.21,0,0.0
+90,15,2024-07-13,partner,Automate for Growth,activation,557,15,0,0,0,0,0,300.26,0,0.0
+91,15,2024-11-20,in_product,Always On,activation,22362,1562,0,0,0,1,0,111.08,0,0.0
+92,15,2024-09-18,in_product,Automate for Growth,activation,16303,583,0,0,0,1,1,65.37,1,12392.77
+93,15,2024-07-08,partner,Always On,activation,1492,62,0,0,0,0,0,645.02,0,0.0
+94,15,2024-11-07,partner,Always On,awareness,1264,79,0,0,0,0,0,230.75,0,0.0
+95,15,2024-10-12,in_product,Holiday Growth,education,4288,99,0,0,0,1,0,38.71,0,0.0
+96,16,2024-12-02,sales_outreach,Always On,consideration,755,47,0,0,0,0,1,43.38,1,9673.05
+97,16,2024-08-17,paid_social,Grow with Meta,education,1760,10,0,0,0,0,0,510.59,0,0.0
+98,16,2024-10-31,paid_social,Holiday Growth,consideration,9638,179,0,0,0,0,0,542.31,0,0.0
+99,16,2024-07-27,in_product,Grow with Meta,education,4402,274,0,0,0,1,0,58.52,0,0.0
+100,16,2024-09-03,organic_search,Always On,retention,2905,228,0,0,0,0,1,136.61,0,0.0
+101,16,2024-07-28,sales_outreach,Holiday Growth,retention,1591,126,0,0,0,0,1,135.67,0,0.0
+102,16,2024-07-21,webinar,Measurement Matters,retention,1623,66,0,0,0,0,0,235.06,0,0.0
+103,16,2024-10-13,webinar,Automate for Growth,education,1468,56,0,0,0,0,1,962.3,0,0.0
+104,16,2024-07-14,sales_outreach,Measurement Matters,retention,1741,18,0,0,0,0,0,137.93,0,0.0
+105,16,2024-10-19,organic_search,Automate for Growth,retention,938,56,0,0,0,0,0,51.32,0,0.0
+106,17,2024-12-10,in_product,Measurement Matters,consideration,24660,1107,0,0,0,1,0,52.55,0,0.0
+107,17,2024-08-29,organic_search,Always On,consideration,2106,38,0,0,0,0,1,100.76,0,0.0
+108,17,2024-07-09,organic_search,Holiday Growth,consideration,1483,96,0,0,0,0,0,40.25,0,0.0
+109,17,2024-08-07,organic_search,Measurement Matters,awareness,2674,87,0,0,0,0,0,50.78,0,0.0
+110,17,2024-12-05,email,Holiday Growth,retention,574,43,1,0,0,0,0,115.46,0,0.0
+111,17,2024-08-22,sales_outreach,Measurement Matters,consideration,348,13,0,0,0,0,0,59.72,0,0.0
+112,17,2024-11-20,sales_outreach,Always On,activation,2628,146,0,0,0,0,1,25.46,0,0.0
+113,17,2024-07-04,sales_outreach,Always On,awareness,696,46,0,0,0,0,0,53.04,0,0.0
+114,17,2024-07-11,partner,Automate for Growth,consideration,276,13,0,0,0,0,0,296.33,0,0.0
+115,18,2024-08-28,sales_outreach,Automate for Growth,retention,797,5,0,0,0,0,0,118.92,0,0.0
+116,18,2024-07-10,webinar,Grow with Meta,retention,594,14,0,0,0,0,1,275.42,0,0.0
+117,18,2024-07-18,email,Holiday Growth,consideration,2930,206,0,0,0,0,0,77.13,0,0.0
+118,18,2024-09-05,paid_social,Automate for Growth,activation,9138,219,0,0,0,0,0,1146.61,0,0.0
+119,18,2024-12-02,email,Always On,education,2178,45,0,0,0,0,0,9.89,0,0.0
+120,18,2024-12-19,in_product,Automate for Growth,education,23088,1473,0,0,0,1,1,96.27,0,0.0
+121,18,2024-11-09,sales_outreach,Automate for Growth,retention,2441,34,0,0,0,0,0,144.05,0,0.0
+122,18,2024-11-28,sales_outreach,Always On,retention,1582,103,0,0,0,0,0,63.84,0,0.0
+123,18,2024-09-17,partner,Automate for Growth,activation,635,45,0,0,0,0,0,718.62,0,0.0
+124,19,2024-09-03,sales_outreach,Holiday Growth,education,545,36,0,0,0,0,1,125.96,0,0.0
+125,19,2024-09-03,email,Measurement Matters,consideration,367,25,0,0,0,0,0,144.53,0,0.0
+126,19,2024-08-11,paid_social,Always On,education,6676,449,0,0,0,0,0,710.87,0,0.0
+127,19,2024-11-18,paid_social,Holiday Growth,awareness,18613,1199,0,0,0,0,1,135.28,0,0.0
+128,19,2024-11-10,in_product,Always On,awareness,5149,390,0,0,0,1,0,147.51,0,0.0
+129,19,2024-08-17,sales_outreach,Measurement Matters,education,2368,110,0,0,0,0,1,21.86,1,2196.11
+130,19,2024-10-06,email,Grow with Meta,awareness,67,0,0,0,0,0,0,69.2,0,0.0
+131,19,2024-12-21,email,Holiday Growth,activation,2081,141,0,0,0,0,0,137.93,0,0.0
+132,20,2024-08-30,email,Always On,consideration,2244,25,1,0,0,0,0,43.31,0,0.0
+133,20,2024-07-13,organic_search,Holiday Growth,consideration,2662,62,0,0,0,0,0,88.44,0,0.0
+134,20,2024-09-19,in_product,Automate for Growth,activation,24612,1537,0,0,0,1,0,20.74,0,0.0
+135,20,2024-07-01,partner,Measurement Matters,awareness,2412,69,0,0,0,0,0,117.19,0,0.0
+136,21,2024-09-23,partner,Always On,activation,1656,122,0,0,0,0,1,980.84,0,0.0
+137,21,2024-10-19,in_product,Holiday Growth,activation,2443,72,0,0,0,1,0,6.91,0,0.0
+138,21,2024-10-03,organic_search,Automate for Growth,awareness,377,3,0,0,0,0,0,58.95,0,0.0
+139,21,2024-09-11,sales_outreach,Grow with Meta,activation,370,21,0,0,0,0,0,141.39,0,0.0
+140,21,2024-12-06,webinar,Holiday Growth,awareness,1327,16,0,0,0,0,0,709.78,0,0.0
+141,21,2024-11-18,webinar,Measurement Matters,consideration,2520,15,0,0,0,0,0,515.88,0,0.0
+142,21,2024-10-08,webinar,Always On,activation,577,19,0,0,0,0,0,486.31,0,0.0
+143,22,2024-11-22,email,Grow with Meta,activation,2163,48,0,0,0,0,0,134.66,0,0.0
+144,22,2024-10-03,webinar,Always On,activation,2794,152,0,0,0,0,0,436.9,0,0.0
+145,22,2024-12-25,paid_social,Always On,education,11896,464,0,0,0,0,1,545.36,0,0.0
+146,22,2024-09-30,paid_social,Holiday Growth,retention,730,55,0,0,0,0,1,1057.42,0,0.0
+147,22,2024-07-02,webinar,Always On,consideration,2290,154,0,0,1,0,1,1173.33,0,0.0
+148,22,2024-07-31,paid_social,Holiday Growth,activation,2387,152,0,0,0,0,0,612.6,0,0.0
+149,22,2024-09-14,in_product,Holiday Growth,retention,9529,552,0,0,0,1,0,20.7,0,0.0
+150,22,2024-11-19,paid_social,Measurement Matters,consideration,2446,29,0,0,0,0,0,1001.74,0,0.0
+151,22,2024-10-31,email,Automate for Growth,retention,2493,145,1,1,0,0,1,24.41,0,0.0
+152,22,2024-09-06,webinar,Automate for Growth,consideration,305,11,0,0,0,0,0,1096.1,0,0.0
+153,23,2024-11-07,email,Measurement Matters,awareness,2268,70,1,0,0,0,0,47.84,0,0.0
+154,23,2024-07-01,partner,Always On,awareness,2368,36,0,0,0,0,0,440.6,0,0.0
+155,23,2024-09-26,sales_outreach,Holiday Growth,consideration,204,1,0,0,0,0,0,138.8,0,0.0
+156,23,2024-11-06,email,Measurement Matters,retention,1882,33,0,0,0,0,1,129.68,0,0.0
+157,23,2024-12-14,webinar,Always On,education,1344,96,0,0,0,0,1,70.09,0,0.0
+158,24,2024-10-08,sales_outreach,Always On,consideration,1073,63,0,0,0,0,1,20.44,0,0.0
+159,24,2024-07-16,email,Grow with Meta,awareness,1973,19,0,0,0,0,0,96.22,0,0.0
+160,24,2024-07-28,webinar,Grow with Meta,consideration,1523,118,0,0,0,0,0,1063.09,0,0.0
+161,24,2024-08-28,paid_social,Holiday Growth,awareness,14006,154,0,0,0,0,0,892.64,0,0.0
+162,24,2024-11-29,partner,Automate for Growth,awareness,2333,35,0,0,0,0,1,554.85,0,0.0
+163,25,2024-11-07,in_product,Always On,consideration,8403,613,0,0,0,1,0,98.05,0,0.0
+164,25,2024-11-23,webinar,Always On,activation,2914,86,0,0,1,0,0,169.02,0,0.0
+165,25,2024-11-30,in_product,Automate for Growth,consideration,19435,906,0,0,0,1,1,128.62,0,0.0
+166,25,2024-11-09,in_product,Measurement Matters,activation,3787,136,0,0,0,1,0,143.9,0,0.0
+167,26,2024-07-19,partner,Grow with Meta,consideration,1274,83,0,0,0,0,1,1082.04,0,0.0
+168,26,2024-10-12,organic_search,Measurement Matters,education,186,3,0,0,0,0,0,99.6,0,0.0
+169,26,2024-09-04,email,Always On,education,1919,138,1,0,0,0,0,53.99,0,0.0
+170,26,2024-10-20,organic_search,Grow with Meta,activation,621,22,0,0,0,0,1,129.31,0,0.0
+171,26,2024-09-15,in_product,Always On,retention,6350,311,0,0,0,1,1,107.66,0,0.0
+172,27,2024-12-09,webinar,Automate for Growth,activation,1244,96,0,0,1,0,1,1105.36,0,0.0
+173,27,2024-09-09,paid_social,Grow with Meta,activation,17702,151,0,0,0,0,1,534.62,0,0.0
+174,27,2024-10-10,organic_search,Measurement Matters,education,1840,94,0,0,0,0,0,54.63,0,0.0
+175,27,2024-09-22,webinar,Grow with Meta,awareness,749,44,0,0,1,0,1,1124.3,0,0.0
+176,27,2024-12-01,in_product,Grow with Meta,education,20610,1184,0,0,0,1,0,99.91,0,0.0
+177,28,2024-12-23,email,Grow with Meta,education,411,16,0,0,0,0,0,90.15,0,0.0
+178,28,2024-12-23,organic_search,Measurement Matters,education,1209,69,0,0,0,0,0,58.36,0,0.0
+179,28,2024-09-19,sales_outreach,Automate for Growth,awareness,98,3,0,0,0,0,0,137.91,0,0.0
+180,28,2024-08-16,sales_outreach,Holiday Growth,consideration,726,57,0,0,0,0,0,100.03,0,0.0
+181,29,2024-10-15,partner,Grow with Meta,awareness,2318,73,0,0,0,0,0,12.69,0,0.0
+182,29,2024-09-27,organic_search,Always On,consideration,455,13,0,0,0,0,0,139.58,0,0.0
+183,29,2024-07-26,in_product,Holiday Growth,education,20766,1490,0,0,0,1,1,65.71,1,12603.93
+184,29,2024-11-29,partner,Automate for Growth,awareness,529,21,0,0,0,0,0,1116.9,0,0.0
+185,29,2024-12-21,paid_social,Always On,education,21838,1339,0,0,0,0,1,11.67,0,0.0
+186,29,2024-07-01,organic_search,Automate for Growth,consideration,2955,17,0,0,0,0,0,86.85,0,0.0
+187,29,2024-12-26,paid_social,Automate for Growth,awareness,1030,72,0,0,0,0,0,607.78,0,0.0
+188,29,2024-12-05,email,Always On,education,2224,61,0,0,0,0,1,33.21,0,0.0
+189,29,2024-09-26,webinar,Measurement Matters,awareness,1472,45,0,0,0,0,0,823.23,0,0.0
+190,29,2024-11-25,organic_search,Grow with Meta,awareness,1589,16,0,0,0,0,1,144.56,0,0.0
+191,30,2024-10-08,webinar,Holiday Growth,activation,1756,132,0,0,0,0,0,88.43,0,0.0
+192,30,2024-11-06,organic_search,Automate for Growth,education,181,11,0,0,0,0,0,149.42,0,0.0
+193,30,2024-11-26,sales_outreach,Automate for Growth,education,893,48,0,0,0,0,0,43.35,0,0.0
+194,30,2024-08-10,email,Automate for Growth,consideration,12,0,0,0,0,0,0,113.81,0,0.0
+195,30,2024-08-03,email,Holiday Growth,education,893,15,1,1,0,0,1,147.81,0,0.0
+196,30,2024-12-17,organic_search,Always On,education,434,17,0,0,0,0,1,87.32,0,0.0
+197,30,2024-07-09,paid_social,Always On,awareness,7253,203,0,0,0,0,0,83.69,0,0.0
+198,31,2024-11-20,in_product,Holiday Growth,retention,22177,188,0,0,0,1,1,95.58,0,0.0
+199,31,2024-10-07,organic_search,Holiday Growth,activation,996,6,0,0,0,0,0,17.5,0,0.0
+200,31,2024-10-25,paid_social,Automate for Growth,retention,4460,228,0,0,0,0,1,1075.66,0,0.0
+201,31,2024-11-29,webinar,Always On,activation,2225,86,0,0,0,0,0,105.27,0,0.0
+202,31,2024-08-15,organic_search,Grow with Meta,education,687,23,0,0,0,0,1,126.47,0,0.0
+203,31,2024-07-07,in_product,Always On,education,12126,382,0,0,0,1,1,38.38,0,0.0
+204,31,2024-11-18,email,Grow with Meta,education,1823,24,0,0,0,0,0,33.85,0,0.0
+205,31,2024-12-17,paid_social,Measurement Matters,awareness,14138,813,0,0,0,0,1,776.44,0,0.0
+206,31,2024-07-02,organic_search,Automate for Growth,retention,2149,137,0,0,0,0,0,136.48,0,0.0
+207,32,2024-10-04,in_product,Automate for Growth,retention,3488,219,0,0,0,1,0,31.72,0,0.0
+208,32,2024-10-29,webinar,Measurement Matters,awareness,335,20,0,0,0,0,0,556.5,0,0.0
+209,32,2024-09-25,in_product,Measurement Matters,activation,18220,797,0,0,0,1,0,112.56,0,0.0
+210,32,2024-08-09,webinar,Always On,retention,2865,144,0,0,1,0,0,450.53,0,0.0
+211,33,2024-07-14,paid_social,Grow with Meta,retention,16682,428,0,0,0,0,0,373.19,0,0.0
+212,33,2024-08-15,paid_social,Always On,education,5510,326,0,0,0,0,0,1.46,0,0.0
+213,33,2024-12-17,webinar,Measurement Matters,awareness,1207,54,0,0,0,0,0,274.37,0,0.0
+214,33,2024-08-24,organic_search,Measurement Matters,retention,364,9,0,0,0,0,0,41.81,0,0.0
+215,33,2024-11-25,sales_outreach,Always On,education,450,4,0,0,0,0,0,143.48,0,0.0
+216,33,2024-08-02,sales_outreach,Grow with Meta,education,42,2,0,0,0,0,0,110.22,0,0.0
+217,33,2024-11-05,email,Automate for Growth,education,1135,85,0,0,0,0,1,19.68,0,0.0
+218,34,2024-10-15,email,Automate for Growth,awareness,999,32,1,0,0,0,0,75.5,0,0.0
+219,34,2024-11-30,in_product,Measurement Matters,activation,8306,288,0,0,0,1,1,147.65,1,10871.09
+220,34,2024-11-15,in_product,Measurement Matters,education,15061,477,0,0,0,1,0,14.39,0,0.0
+221,34,2024-07-23,partner,Holiday Growth,awareness,291,16,0,0,0,0,0,1188.8,0,0.0
+222,34,2024-08-10,in_product,Always On,retention,9783,326,0,0,0,1,0,129.09,0,0.0
+223,34,2024-11-16,paid_social,Automate for Growth,awareness,3911,296,0,0,0,0,1,297.53,0,0.0
+224,34,2024-10-16,webinar,Holiday Growth,awareness,1586,54,0,0,1,0,1,1042.36,0,0.0
+225,34,2024-10-09,webinar,Holiday Growth,awareness,229,7,0,0,0,0,0,1009.49,0,0.0
+226,34,2024-11-09,in_product,Holiday Growth,consideration,7664,440,0,0,0,1,0,12.62,0,0.0
+227,35,2024-07-10,email,Holiday Growth,activation,1242,60,0,0,0,0,0,45.08,0,0.0
+228,35,2024-08-27,in_product,Always On,activation,6434,362,0,0,0,1,0,28.28,0,0.0
+229,35,2024-08-12,organic_search,Holiday Growth,education,35,0,0,0,0,0,0,90.68,0,0.0
+230,35,2024-07-23,paid_social,Automate for Growth,education,5536,187,0,0,0,0,0,1000.83,0,0.0
+231,35,2024-09-26,organic_search,Always On,consideration,887,56,0,0,0,0,0,137.95,0,0.0
+232,35,2024-12-10,organic_search,Grow with Meta,retention,2759,45,0,0,0,0,0,127.52,0,0.0
+233,36,2024-10-13,in_product,Measurement Matters,education,19469,1485,0,0,0,1,0,110.99,0,0.0
+234,36,2024-11-24,sales_outreach,Holiday Growth,consideration,1275,93,0,0,0,0,0,98.7,0,0.0
+235,36,2024-09-11,paid_social,Holiday Growth,education,6587,309,0,0,0,0,0,1064.83,0,0.0
+236,36,2024-09-05,organic_search,Measurement Matters,awareness,2731,25,0,0,0,0,0,33.74,0,0.0
+237,36,2024-11-13,partner,Holiday Growth,activation,2825,65,0,0,0,0,1,1001.34,0,0.0
+238,36,2024-12-24,email,Always On,consideration,1532,120,1,0,0,0,0,58.56,0,0.0
+239,36,2024-09-07,in_product,Automate for Growth,education,10841,701,0,0,0,1,0,106.82,0,0.0
+240,36,2024-09-08,organic_search,Holiday Growth,activation,983,37,0,0,0,0,0,148.67,0,0.0
+241,36,2024-10-19,sales_outreach,Measurement Matters,consideration,2436,154,0,0,0,0,0,121.03,0,0.0
+242,37,2024-12-06,email,Automate for Growth,retention,726,22,1,0,0,0,0,85.9,0,0.0
+243,37,2024-09-16,email,Holiday Growth,education,1400,26,1,1,0,0,1,55.68,0,0.0
+244,37,2024-11-28,email,Grow with Meta,consideration,982,5,0,0,0,0,1,35.94,0,0.0
+245,37,2024-12-18,paid_social,Automate for Growth,retention,12610,178,0,0,0,0,0,63.17,0,0.0
+246,37,2024-09-16,webinar,Automate for Growth,consideration,801,18,0,0,0,0,0,979.89,0,0.0
+247,38,2024-10-26,sales_outreach,Measurement Matters,awareness,229,8,0,0,0,0,0,98.67,0,0.0
+248,38,2024-08-01,sales_outreach,Holiday Growth,retention,75,0,0,0,0,0,0,96.84,0,0.0
+249,38,2024-11-18,partner,Holiday Growth,awareness,1460,108,0,0,0,0,1,144.3,0,0.0
+250,38,2024-08-15,webinar,Holiday Growth,retention,1151,33,0,0,1,0,0,789.53,0,0.0
+251,38,2024-12-21,partner,Holiday Growth,awareness,1887,46,0,0,0,0,0,780.58,0,0.0
+252,39,2024-07-07,in_product,Always On,activation,6357,338,0,0,0,1,1,97.22,0,0.0
+253,39,2024-10-22,partner,Holiday Growth,activation,1399,98,0,0,0,0,0,267.08,0,0.0
+254,39,2024-08-19,paid_social,Holiday Growth,awareness,18918,704,0,0,0,0,0,488.09,0,0.0
+255,39,2024-08-09,email,Holiday Growth,retention,1142,83,0,0,0,0,1,114.48,0,0.0
+256,40,2024-08-08,email,Holiday Growth,education,1506,44,0,0,0,0,0,5.45,0,0.0
+257,40,2024-08-19,sales_outreach,Grow with Meta,activation,525,5,0,0,0,0,1,69.47,0,0.0
+258,40,2024-08-25,email,Holiday Growth,retention,2475,68,0,0,0,0,0,18.51,0,0.0
+259,40,2024-07-09,partner,Measurement Matters,awareness,2571,146,0,0,0,0,0,197.37,0,0.0
+260,41,2024-10-09,in_product,Measurement Matters,awareness,20396,631,0,0,0,1,0,77.71,0,0.0
+261,41,2024-09-27,webinar,Measurement Matters,consideration,2642,50,0,0,0,0,0,940.91,0,0.0
+262,41,2024-08-07,webinar,Measurement Matters,education,1443,96,0,0,0,0,0,1091.45,0,0.0
+263,41,2024-08-18,sales_outreach,Always On,retention,2840,178,0,0,0,0,0,104.9,0,0.0
+264,41,2024-08-26,webinar,Automate for Growth,education,714,3,0,0,0,0,0,832.19,0,0.0
+265,42,2024-10-29,paid_social,Holiday Growth,awareness,13869,513,0,0,0,0,0,1166.39,0,0.0
+266,42,2024-08-10,email,Measurement Matters,activation,2258,176,1,1,0,0,1,118.19,1,7832.16
+267,42,2024-11-19,email,Measurement Matters,retention,405,2,1,0,0,0,0,126.8,0,0.0
+268,42,2024-12-18,sales_outreach,Holiday Growth,consideration,2295,120,0,0,0,0,1,13.45,0,0.0
+269,42,2024-08-25,webinar,Measurement Matters,education,1058,67,0,0,0,0,1,904.5,1,3542.39
+270,43,2024-08-09,sales_outreach,Automate for Growth,retention,2083,13,0,0,0,0,1,91.11,0,0.0
+271,43,2024-12-09,sales_outreach,Measurement Matters,education,2319,38,0,0,0,0,0,148.62,0,0.0
+272,43,2024-12-06,sales_outreach,Automate for Growth,education,1449,51,0,0,0,0,0,123.16,0,0.0
+273,43,2024-12-10,organic_search,Holiday Growth,education,2688,23,0,0,0,0,0,124.97,0,0.0
+274,43,2024-08-30,email,Grow with Meta,activation,2654,36,1,0,0,0,0,41.37,0,0.0
+275,44,2024-12-15,organic_search,Always On,consideration,939,65,0,0,0,0,0,115.83,0,0.0
+276,44,2024-11-08,paid_social,Automate for Growth,activation,445,31,0,0,0,0,1,929.72,1,10085.93
+277,44,2024-07-17,paid_social,Automate for Growth,consideration,18708,1255,0,0,0,0,0,438.45,0,0.0
+278,44,2024-12-08,partner,Grow with Meta,consideration,1951,16,0,0,0,0,1,682.41,0,0.0
+279,44,2024-09-08,email,Grow with Meta,retention,1754,137,1,1,0,0,1,100.98,0,0.0
+280,44,2024-11-29,sales_outreach,Automate for Growth,activation,375,18,0,0,0,0,0,147.71,0,0.0
+281,44,2024-08-05,webinar,Grow with Meta,consideration,2035,64,0,0,1,0,0,0.63,0,0.0
+282,44,2024-12-14,paid_social,Holiday Growth,awareness,14241,1114,0,0,0,0,0,85.34,0,0.0
+283,44,2024-09-01,paid_social,Holiday Growth,retention,23887,1304,0,0,0,0,1,87.95,0,0.0
+284,45,2024-11-11,in_product,Holiday Growth,education,17432,827,0,0,0,1,0,5.45,0,0.0
+285,45,2024-08-17,email,Measurement Matters,activation,676,24,0,0,0,0,1,119.68,0,0.0
+286,45,2024-11-13,sales_outreach,Always On,retention,1595,88,0,0,0,0,1,143.87,0,0.0
+287,45,2024-08-23,in_product,Always On,consideration,21259,974,0,0,0,1,0,126.1,0,0.0
+288,45,2024-09-18,paid_social,Measurement Matters,awareness,3778,189,0,0,0,0,0,458.68,0,0.0
+289,45,2024-11-28,webinar,Grow with Meta,consideration,2753,163,0,0,0,0,1,279.81,1,2798.82
+290,45,2024-09-11,partner,Always On,activation,97,6,0,0,0,0,0,453.76,0,0.0
+291,46,2024-10-27,organic_search,Holiday Growth,consideration,1966,10,0,0,0,0,1,21.04,0,0.0
+292,46,2024-11-24,organic_search,Holiday Growth,retention,2232,122,0,0,0,0,0,60.14,0,0.0
+293,46,2024-09-27,in_product,Holiday Growth,awareness,10143,723,0,0,0,1,1,122.43,0,0.0
+294,46,2024-12-26,organic_search,Measurement Matters,activation,1355,10,0,0,0,0,0,52.95,0,0.0
+295,46,2024-10-18,paid_social,Always On,education,1234,60,0,0,0,0,0,326.88,0,0.0
+296,46,2024-09-30,in_product,Measurement Matters,retention,14464,158,0,0,0,1,0,84.81,0,0.0
+297,46,2024-07-03,sales_outreach,Measurement Matters,consideration,1558,33,0,0,0,0,1,104.21,0,0.0
+298,46,2024-09-15,organic_search,Measurement Matters,awareness,452,7,0,0,0,0,1,62.03,0,0.0
+299,46,2024-11-21,partner,Always On,consideration,1287,65,0,0,0,0,0,744.92,0,0.0
+300,46,2024-09-23,webinar,Automate for Growth,consideration,1612,50,0,0,1,0,0,297.62,0,0.0
+301,47,2024-09-17,paid_social,Always On,awareness,10073,586,0,0,0,0,0,950.05,0,0.0
+302,47,2024-09-01,in_product,Automate for Growth,consideration,18658,1391,0,0,0,1,0,112.95,0,0.0
+303,47,2024-12-16,webinar,Always On,education,1847,48,0,0,0,0,1,491.9,1,11506.52
+304,47,2024-10-31,paid_social,Measurement Matters,retention,7358,63,0,0,0,0,1,504.15,0,0.0
+305,47,2024-09-08,sales_outreach,Grow with Meta,education,2184,116,0,0,0,0,0,87.4,0,0.0
+306,47,2024-10-23,paid_social,Measurement Matters,awareness,3396,263,0,0,0,0,0,912.3,0,0.0
+307,47,2024-09-22,sales_outreach,Automate for Growth,retention,710,9,0,0,0,0,0,6.5,0,0.0
+308,47,2024-09-25,organic_search,Holiday Growth,retention,790,20,0,0,0,0,0,61.92,0,0.0
+309,47,2024-09-16,paid_social,Holiday Growth,awareness,4118,32,0,0,0,0,1,362.13,0,0.0
+310,48,2024-09-30,sales_outreach,Grow with Meta,education,2503,54,0,0,0,0,1,4.11,0,0.0
+311,48,2024-10-09,partner,Automate for Growth,retention,471,9,0,0,0,0,0,399.98,0,0.0
+312,48,2024-10-29,sales_outreach,Grow with Meta,retention,2437,83,0,0,0,0,1,50.61,0,0.0
+313,48,2024-09-05,in_product,Automate for Growth,retention,2585,191,0,0,0,1,0,141.66,0,0.0
+314,48,2024-11-16,organic_search,Always On,consideration,775,18,0,0,0,0,1,58.18,1,3730.92
+315,49,2024-08-04,paid_social,Grow with Meta,education,9720,697,0,0,0,0,1,488.87,0,0.0
+316,49,2024-07-05,paid_social,Automate for Growth,education,10159,399,0,0,0,0,1,487.89,0,0.0
+317,49,2024-12-20,sales_outreach,Holiday Growth,retention,1847,108,0,0,0,0,0,111.22,0,0.0
+318,49,2024-12-14,partner,Automate for Growth,education,115,0,0,0,0,0,0,949.76,0,0.0
+319,50,2024-12-15,partner,Grow with Meta,activation,1150,38,0,0,0,0,0,60.15,0,0.0
+320,50,2024-09-20,in_product,Grow with Meta,education,9374,92,0,0,0,1,1,149.03,0,0.0
+321,50,2024-08-11,paid_social,Measurement Matters,retention,17583,1134,0,0,0,0,0,1136.7,0,0.0
+322,50,2024-08-10,webinar,Measurement Matters,education,1149,42,0,0,1,0,0,404.13,0,0.0
+323,50,2024-08-04,paid_social,Grow with Meta,education,17050,1356,0,0,0,0,0,280.53,0,0.0
+324,50,2024-08-20,organic_search,Automate for Growth,activation,1644,78,0,0,0,0,1,30.66,1,818.52
+325,50,2024-10-18,in_product,Holiday Growth,consideration,14450,145,0,0,0,1,0,100.55,0,0.0
+326,50,2024-12-04,partner,Always On,consideration,44,1,0,0,0,0,0,931.09,0,0.0
+327,51,2024-12-12,partner,Automate for Growth,education,1292,30,0,0,0,0,0,208.27,0,0.0
+328,51,2024-08-13,email,Measurement Matters,awareness,321,24,1,1,0,0,1,115.44,0,0.0
+329,51,2024-08-02,paid_social,Always On,consideration,8876,521,0,0,0,0,0,158.17,0,0.0
+330,51,2024-07-05,in_product,Grow with Meta,activation,2232,169,0,0,0,1,0,121.42,0,0.0
+331,51,2024-07-14,sales_outreach,Automate for Growth,awareness,668,51,0,0,0,0,0,19.86,0,0.0
+332,51,2024-11-17,in_product,Holiday Growth,awareness,23666,852,0,0,0,1,0,99.08,0,0.0
+333,51,2024-09-05,partner,Holiday Growth,awareness,1951,103,0,0,0,0,0,385.34,0,0.0
+334,51,2024-08-28,webinar,Always On,activation,2461,185,0,0,1,0,1,463.58,0,0.0
+335,51,2024-08-16,paid_social,Measurement Matters,consideration,22205,892,0,0,0,0,1,606.95,0,0.0
+336,51,2024-11-14,webinar,Automate for Growth,consideration,165,10,0,0,0,0,0,462.33,0,0.0
+337,52,2024-10-24,sales_outreach,Always On,awareness,604,45,0,0,0,0,0,94.08,0,0.0
+338,52,2024-11-09,partner,Grow with Meta,education,764,9,0,0,0,0,1,1175.19,1,7139.4
+339,52,2024-12-05,sales_outreach,Grow with Meta,awareness,1420,111,0,0,0,0,0,121.1,0,0.0
+340,52,2024-12-09,in_product,Measurement Matters,retention,1622,113,0,0,0,1,0,104.04,0,0.0
+341,52,2024-12-25,paid_social,Automate for Growth,education,11552,147,0,0,0,0,0,740.7,0,0.0
+342,52,2024-10-08,webinar,Automate for Growth,education,1304,78,0,0,0,0,1,122.43,1,13627.08
+343,52,2024-08-06,paid_social,Grow with Meta,activation,18271,714,0,0,0,0,1,432.86,0,0.0
+344,52,2024-12-13,paid_social,Holiday Growth,education,12350,690,0,0,0,0,0,312.81,0,0.0
+345,53,2024-08-21,sales_outreach,Automate for Growth,consideration,7,0,0,0,0,0,0,122.47,0,0.0
+346,53,2024-11-10,organic_search,Holiday Growth,retention,1814,128,0,0,0,0,0,45.71,0,0.0
+347,53,2024-07-03,webinar,Automate for Growth,retention,2377,176,0,0,1,0,0,965.33,0,0.0
+348,53,2024-09-19,sales_outreach,Measurement Matters,activation,1547,96,0,0,0,0,0,10.71,0,0.0
+349,53,2024-12-10,in_product,Measurement Matters,education,8434,436,0,0,0,1,0,59.59,0,0.0
+350,54,2024-09-20,sales_outreach,Measurement Matters,education,1297,46,0,0,0,0,1,67.85,0,0.0
+351,54,2024-09-28,organic_search,Always On,awareness,2324,38,0,0,0,0,0,132.87,0,0.0
+352,54,2024-08-10,paid_social,Measurement Matters,retention,19812,297,0,0,0,0,0,687.25,0,0.0
+353,54,2024-10-14,organic_search,Measurement Matters,awareness,480,4,0,0,0,0,0,143.26,0,0.0
+354,54,2024-10-11,paid_social,Measurement Matters,activation,19380,558,0,0,0,0,0,841.36,0,0.0
+355,54,2024-08-14,paid_social,Always On,consideration,15181,836,0,0,0,0,0,774.9,0,0.0
+356,54,2024-09-05,sales_outreach,Always On,retention,737,6,0,0,0,0,0,50.28,0,0.0
+357,54,2024-07-11,email,Grow with Meta,consideration,2648,146,1,1,0,0,1,33.46,0,0.0
+358,55,2024-08-08,webinar,Grow with Meta,education,920,53,0,0,1,0,0,100.45,0,0.0
+359,55,2024-10-04,partner,Always On,education,313,10,0,0,0,0,1,795.3,0,0.0
+360,55,2024-09-15,partner,Grow with Meta,awareness,1784,81,0,0,0,0,0,1189.72,0,0.0
+361,55,2024-09-17,partner,Measurement Matters,awareness,2388,31,0,0,0,0,1,667.53,1,4984.91
+362,55,2024-12-11,email,Always On,activation,1591,29,0,0,0,0,0,74.67,0,0.0
+363,55,2024-12-11,paid_social,Holiday Growth,consideration,10279,452,0,0,0,0,0,1151.72,0,0.0
+364,55,2024-10-20,partner,Measurement Matters,education,1636,100,0,0,0,0,0,142.5,0,0.0
+365,55,2024-10-20,organic_search,Measurement Matters,education,2698,49,0,0,0,0,0,107.23,0,0.0
+366,56,2024-08-11,paid_social,Always On,consideration,5998,37,0,0,0,0,0,54.57,0,0.0
+367,56,2024-11-23,webinar,Grow with Meta,awareness,889,57,0,0,1,0,0,1125.19,0,0.0
+368,56,2024-12-04,in_product,Always On,retention,20153,775,0,0,0,1,0,60.94,0,0.0
+369,56,2024-07-29,organic_search,Always On,awareness,2357,133,0,0,0,0,1,24.13,0,0.0
+370,57,2024-07-02,paid_social,Automate for Growth,education,14156,519,0,0,0,0,1,825.83,1,530.9
+371,57,2024-07-01,sales_outreach,Automate for Growth,awareness,661,30,0,0,0,0,1,59.4,0,0.0
+372,57,2024-11-18,organic_search,Grow with Meta,consideration,736,18,0,0,0,0,0,134.87,0,0.0
+373,57,2024-11-22,webinar,Always On,awareness,2823,48,0,0,0,0,0,205.1,0,0.0
+374,58,2024-10-20,in_product,Measurement Matters,education,13046,587,0,0,0,1,0,123.4,0,0.0
+375,58,2024-10-07,paid_social,Measurement Matters,education,18213,1447,0,0,0,0,1,1046.5,0,0.0
+376,58,2024-12-10,partner,Grow with Meta,retention,1982,70,0,0,0,0,0,606.79,0,0.0
+377,58,2024-11-19,partner,Automate for Growth,awareness,1649,30,0,0,0,0,0,297.4,0,0.0
+378,59,2024-08-09,email,Grow with Meta,retention,778,12,0,0,0,0,1,135.01,0,0.0
+379,59,2024-12-01,partner,Grow with Meta,retention,2082,124,0,0,0,0,1,1077.25,0,0.0
+380,59,2024-07-06,in_product,Holiday Growth,activation,10662,619,0,0,0,1,0,141.15,0,0.0
+381,59,2024-11-26,in_product,Measurement Matters,awareness,12637,153,0,0,0,1,1,113.33,0,0.0
+382,60,2024-10-28,webinar,Always On,activation,2141,26,0,0,0,0,1,924.39,0,0.0
+383,60,2024-11-29,in_product,Holiday Growth,retention,3827,151,0,0,0,1,0,16.6,0,0.0
+384,60,2024-12-17,partner,Holiday Growth,education,2185,116,0,0,0,0,0,358.69,0,0.0
+385,60,2024-12-27,sales_outreach,Holiday Growth,activation,2768,17,0,0,0,0,0,109.78,0,0.0
+386,60,2024-08-13,organic_search,Always On,consideration,2851,218,0,0,0,0,0,57.67,0,0.0
+387,60,2024-08-11,webinar,Automate for Growth,consideration,386,5,0,0,0,0,1,608.68,0,0.0
+388,60,2024-10-22,paid_social,Automate for Growth,education,19738,502,0,0,0,0,0,763.75,0,0.0
+389,60,2024-10-14,webinar,Holiday Growth,retention,2490,16,0,0,1,0,0,917.8,0,0.0
+390,60,2024-07-06,organic_search,Always On,awareness,258,16,0,0,0,0,0,59.45,0,0.0
+391,61,2024-11-21,partner,Automate for Growth,retention,2439,95,0,0,0,0,0,597.64,0,0.0
+392,61,2024-12-03,partner,Always On,consideration,2339,61,0,0,0,0,1,1144.33,0,0.0
+393,61,2024-10-11,email,Always On,retention,1684,66,1,0,0,0,0,51.5,0,0.0
+394,61,2024-11-14,partner,Grow with Meta,consideration,2185,28,0,0,0,0,0,931.69,0,0.0
+395,61,2024-11-09,organic_search,Holiday Growth,awareness,1295,7,0,0,0,0,0,99.43,0,0.0
+396,61,2024-10-11,organic_search,Measurement Matters,activation,701,9,0,0,0,0,0,4.71,0,0.0
+397,61,2024-11-17,email,Measurement Matters,consideration,1625,56,0,0,0,0,0,2.71,0,0.0
+398,61,2024-11-20,webinar,Measurement Matters,awareness,1035,33,0,0,1,0,1,667.54,0,0.0
+399,62,2024-11-30,in_product,Holiday Growth,consideration,9999,550,0,0,0,1,0,35.54,0,0.0
+400,62,2024-07-04,partner,Measurement Matters,activation,435,20,0,0,0,0,0,1038.59,0,0.0
+401,62,2024-10-08,partner,Holiday Growth,awareness,1518,111,0,0,0,0,1,255.42,0,0.0
+402,62,2024-10-08,webinar,Automate for Growth,awareness,2444,77,0,0,1,0,0,1140.38,0,0.0
+403,62,2024-09-14,webinar,Holiday Growth,activation,1070,66,0,0,1,0,0,649.63,0,0.0
+404,62,2024-07-31,webinar,Always On,activation,213,9,0,0,0,0,0,23.41,0,0.0
+405,63,2024-10-04,in_product,Grow with Meta,awareness,21062,1374,0,0,0,1,1,94.65,0,0.0
+406,63,2024-07-12,paid_social,Holiday Growth,activation,8893,657,0,0,0,0,1,1162.71,1,9131.94
+407,63,2024-10-11,organic_search,Automate for Growth,education,2725,83,0,0,0,0,0,135.36,0,0.0
+408,63,2024-09-21,organic_search,Automate for Growth,retention,159,5,0,0,0,0,0,18.91,0,0.0
+409,63,2024-08-17,webinar,Measurement Matters,awareness,1787,125,0,0,1,0,0,921.74,0,0.0
+410,64,2024-07-08,email,Automate for Growth,activation,1359,30,0,0,0,0,0,44.23,0,0.0
+411,64,2024-10-04,organic_search,Always On,education,1968,142,0,0,0,0,1,43.29,0,0.0
+412,64,2024-08-27,webinar,Automate for Growth,awareness,1791,52,0,0,1,0,0,278.11,0,0.0
+413,64,2024-08-12,in_product,Always On,awareness,2682,208,0,0,0,1,1,109.3,0,0.0
+414,64,2024-07-18,email,Holiday Growth,education,1021,35,0,0,0,0,0,139.58,0,0.0
+415,64,2024-10-17,partner,Automate for Growth,retention,2622,41,0,0,0,0,0,593.58,0,0.0
+416,64,2024-12-20,sales_outreach,Automate for Growth,retention,2235,133,0,0,0,0,0,83.35,0,0.0
+417,64,2024-09-27,organic_search,Measurement Matters,consideration,701,13,0,0,0,0,0,25.55,0,0.0
+418,65,2024-09-25,in_product,Grow with Meta,retention,3790,296,0,0,0,1,1,55.24,1,1465.12
+419,65,2024-09-17,partner,Automate for Growth,activation,2609,22,0,0,0,0,1,111.3,0,0.0
+420,65,2024-10-21,paid_social,Always On,consideration,11998,634,0,0,0,0,0,169.38,0,0.0
+421,65,2024-10-26,email,Measurement Matters,consideration,1890,26,0,0,0,0,0,147.0,0,0.0
+422,66,2024-08-26,partner,Measurement Matters,awareness,2471,50,0,0,0,0,1,586.0,0,0.0
+423,66,2024-11-11,webinar,Always On,education,892,32,0,0,0,0,1,241.25,0,0.0
+424,66,2024-11-20,in_product,Grow with Meta,consideration,1227,53,0,0,0,1,0,133.44,0,0.0
+425,66,2024-11-20,partner,Holiday Growth,education,714,29,0,0,0,0,0,11.57,0,0.0
+426,66,2024-09-22,organic_search,Measurement Matters,consideration,2803,27,0,0,0,0,1,66.78,0,0.0
+427,66,2024-07-26,sales_outreach,Always On,retention,928,38,0,0,0,0,0,76.78,0,0.0
+428,67,2024-10-31,email,Holiday Growth,activation,1460,53,0,0,0,0,1,130.4,0,0.0
+429,67,2024-09-18,paid_social,Measurement Matters,education,19415,1275,0,0,0,0,0,78.37,0,0.0
+430,67,2024-10-05,partner,Holiday Growth,consideration,1623,24,0,0,0,0,0,308.34,0,0.0
+431,67,2024-12-24,organic_search,Grow with Meta,awareness,216,10,0,0,0,0,0,118.54,0,0.0
+432,67,2024-12-23,email,Automate for Growth,education,2181,108,1,1,0,0,1,135.89,0,0.0
+433,67,2024-09-12,email,Measurement Matters,consideration,2885,32,0,0,0,0,0,43.58,0,0.0
+434,67,2024-12-06,in_product,Always On,activation,9075,546,0,0,0,1,0,77.51,0,0.0
+435,67,2024-11-03,webinar,Automate for Growth,retention,1519,57,0,0,0,0,0,988.66,0,0.0
+436,67,2024-11-29,organic_search,Grow with Meta,education,2130,30,0,0,0,0,0,16.67,0,0.0
+437,67,2024-12-03,paid_social,Grow with Meta,education,2342,89,0,0,0,0,0,877.35,0,0.0
+438,68,2024-10-27,webinar,Grow with Meta,consideration,2214,42,0,0,0,0,0,1078.46,0,0.0
+439,68,2024-09-23,partner,Grow with Meta,consideration,2379,106,0,0,0,0,0,315.23,0,0.0
+440,68,2024-10-09,partner,Always On,awareness,845,31,0,0,0,0,0,191.85,0,0.0
+441,68,2024-11-15,email,Grow with Meta,awareness,747,44,0,0,0,0,1,75.42,0,0.0
+442,68,2024-09-25,webinar,Always On,awareness,1007,51,0,0,0,0,0,95.74,0,0.0
+443,68,2024-11-24,partner,Measurement Matters,awareness,93,5,0,0,0,0,0,1100.3,0,0.0
+444,69,2024-10-17,in_product,Always On,education,18911,161,0,0,0,1,1,84.04,0,0.0
+445,69,2024-11-07,paid_social,Always On,awareness,12245,143,0,0,0,0,0,375.7,0,0.0
+446,69,2024-12-19,partner,Automate for Growth,education,2957,117,0,0,0,0,0,922.56,0,0.0
+447,69,2024-11-25,paid_social,Measurement Matters,retention,22064,763,0,0,0,0,0,145.85,0,0.0
+448,69,2024-08-04,email,Automate for Growth,consideration,43,1,0,0,0,0,1,86.03,0,0.0
+449,69,2024-11-06,email,Grow with Meta,awareness,997,59,1,1,0,0,1,123.95,0,0.0
+450,69,2024-10-11,organic_search,Grow with Meta,consideration,1343,12,0,0,0,0,1,31.83,0,0.0
+451,70,2024-10-21,partner,Grow with Meta,education,2175,91,0,0,0,0,0,482.47,0,0.0
+452,70,2024-08-23,sales_outreach,Automate for Growth,education,1429,61,0,0,0,0,0,85.25,0,0.0
+453,70,2024-10-19,partner,Grow with Meta,consideration,2535,24,0,0,0,0,1,400.64,0,0.0
+454,70,2024-10-05,sales_outreach,Measurement Matters,retention,1196,46,0,0,0,0,1,97.6,0,0.0
+455,70,2024-10-09,in_product,Always On,awareness,18616,352,0,0,0,1,1,131.58,1,4707.57
+456,70,2024-08-16,sales_outreach,Holiday Growth,awareness,549,37,0,0,0,0,0,70.73,0,0.0
+457,70,2024-10-05,partner,Holiday Growth,awareness,649,29,0,0,0,0,0,918.85,0,0.0
+458,70,2024-09-04,organic_search,Automate for Growth,awareness,1022,27,0,0,0,0,0,56.66,0,0.0
+459,70,2024-12-26,partner,Holiday Growth,consideration,2887,162,0,0,0,0,1,1071.96,0,0.0
+460,71,2024-10-13,paid_social,Automate for Growth,awareness,10970,495,0,0,0,0,0,1102.86,0,0.0
+461,71,2024-08-04,organic_search,Holiday Growth,education,510,3,0,0,0,0,0,82.03,0,0.0
+462,71,2024-07-27,email,Automate for Growth,consideration,1082,16,1,0,0,0,0,76.37,0,0.0
+463,71,2024-11-29,sales_outreach,Automate for Growth,education,1109,43,0,0,0,0,0,86.85,0,0.0
+464,71,2024-12-25,email,Always On,awareness,2357,84,0,0,0,0,0,60.32,0,0.0
+465,71,2024-11-08,webinar,Holiday Growth,consideration,712,12,0,0,0,0,0,1126.18,0,0.0
+466,71,2024-08-30,partner,Automate for Growth,retention,1311,80,0,0,0,0,0,1026.81,0,0.0
+467,71,2024-08-20,sales_outreach,Grow with Meta,activation,1859,28,0,0,0,0,0,68.03,0,0.0
+468,71,2024-10-07,partner,Automate for Growth,awareness,2265,174,0,0,0,0,0,946.6,0,0.0
+469,72,2024-11-07,organic_search,Holiday Growth,education,854,42,0,0,0,0,0,135.17,0,0.0
+470,72,2024-08-29,webinar,Measurement Matters,activation,1925,73,0,0,0,0,0,266.93,0,0.0
+471,72,2024-07-03,organic_search,Always On,awareness,1946,75,0,0,0,0,0,14.14,0,0.0
+472,72,2024-10-16,webinar,Grow with Meta,education,462,34,0,0,1,0,0,764.3,0,0.0
+473,72,2024-09-06,webinar,Grow with Meta,education,524,18,0,0,1,0,0,1163.87,0,0.0
+474,73,2024-09-30,partner,Holiday Growth,activation,953,68,0,0,0,0,0,868.99,0,0.0
+475,73,2024-11-04,paid_social,Always On,consideration,240,6,0,0,0,0,1,23.62,0,0.0
+476,73,2024-12-05,email,Automate for Growth,awareness,2315,48,1,0,0,0,1,82.63,1,9510.07
+477,73,2024-11-20,sales_outreach,Holiday Growth,education,592,9,0,0,0,0,1,142.82,1,11087.75
+478,73,2024-08-22,sales_outreach,Measurement Matters,education,1597,125,0,0,0,0,0,86.15,0,0.0
+479,73,2024-08-17,organic_search,Automate for Growth,awareness,321,25,0,0,0,0,0,119.02,0,0.0
+480,73,2024-07-14,organic_search,Grow with Meta,education,2843,151,0,0,0,0,1,62.88,1,12512.34
+481,73,2024-11-17,organic_search,Holiday Growth,activation,1568,69,0,0,0,0,1,57.22,1,673.99
+482,73,2024-07-09,sales_outreach,Grow with Meta,retention,2674,47,0,0,0,0,0,22.72,0,0.0
+483,73,2024-07-18,organic_search,Always On,consideration,969,33,0,0,0,0,0,108.22,0,0.0
+484,74,2024-07-08,in_product,Grow with Meta,awareness,17817,868,0,0,0,1,1,69.73,0,0.0
+485,74,2024-07-04,in_product,Grow with Meta,activation,7976,121,0,0,0,1,0,84.46,0,0.0
+486,74,2024-08-13,paid_social,Measurement Matters,awareness,20164,798,0,0,0,0,1,934.43,0,0.0
+487,74,2024-11-04,email,Measurement Matters,education,837,38,1,1,0,0,1,132.69,0,0.0
+488,74,2024-10-13,email,Grow with Meta,activation,103,6,1,0,0,0,0,41.9,0,0.0
+489,75,2024-09-17,webinar,Measurement Matters,activation,685,31,0,0,0,0,1,1001.08,0,0.0
+490,75,2024-08-17,email,Automate for Growth,education,593,39,0,0,0,0,1,117.98,0,0.0
+491,75,2024-12-18,email,Grow with Meta,retention,2654,92,1,1,0,0,1,40.48,1,14338.07
+492,75,2024-08-16,organic_search,Holiday Growth,retention,1250,75,0,0,0,0,0,126.39,0,0.0
+493,76,2024-07-25,paid_social,Measurement Matters,education,22099,413,0,0,0,0,0,423.75,0,0.0
+494,76,2024-11-20,in_product,Grow with Meta,education,13402,146,0,0,0,1,0,122.75,0,0.0
+495,76,2024-07-29,organic_search,Holiday Growth,awareness,1413,94,0,0,0,0,0,81.01,0,0.0
+496,76,2024-11-15,paid_social,Always On,awareness,3466,44,0,0,0,0,0,383.6,0,0.0
+497,77,2024-09-12,partner,Always On,retention,1761,80,0,0,0,0,0,908.94,0,0.0
+498,77,2024-11-09,in_product,Holiday Growth,education,8366,342,0,0,0,1,0,131.82,0,0.0
+499,77,2024-09-18,paid_social,Holiday Growth,consideration,15192,508,0,0,0,0,1,11.61,0,0.0
+500,77,2024-11-22,email,Grow with Meta,retention,2094,128,0,0,0,0,0,146.46,0,0.0
+501,77,2024-11-13,email,Measurement Matters,activation,2010,54,0,0,0,0,1,65.58,1,6353.13
+502,78,2024-11-16,sales_outreach,Automate for Growth,retention,2562,37,0,0,0,0,1,48.91,0,0.0
+503,78,2024-07-31,in_product,Measurement Matters,retention,8862,342,0,0,0,1,0,75.63,0,0.0
+504,78,2024-08-21,webinar,Holiday Growth,education,1681,48,0,0,0,0,1,1026.82,1,14969.13
+505,78,2024-07-01,partner,Grow with Meta,awareness,60,1,0,0,0,0,1,1054.38,0,0.0
+506,78,2024-08-31,email,Always On,awareness,2247,98,1,0,0,0,0,60.5,0,0.0
+507,78,2024-11-23,webinar,Grow with Meta,awareness,20,0,0,0,0,0,0,921.74,0,0.0
+508,78,2024-07-24,organic_search,Holiday Growth,retention,488,17,0,0,0,0,1,86.95,0,0.0
+509,78,2024-10-25,partner,Always On,retention,2572,42,0,0,0,0,1,822.61,0,0.0
+510,79,2024-09-25,webinar,Automate for Growth,retention,2977,117,0,0,0,0,1,10.69,0,0.0
+511,79,2024-10-31,partner,Automate for Growth,activation,337,25,0,0,0,0,0,657.14,0,0.0
+512,79,2024-11-28,paid_social,Always On,consideration,1332,11,0,0,0,0,0,979.12,0,0.0
+513,79,2024-10-23,sales_outreach,Grow with Meta,awareness,898,21,0,0,0,0,1,14.52,0,0.0
+514,79,2024-09-05,webinar,Automate for Growth,retention,349,10,0,0,0,0,0,443.26,0,0.0
+515,79,2024-07-05,paid_social,Measurement Matters,consideration,24879,1194,0,0,0,0,0,180.1,0,0.0
+516,79,2024-08-31,partner,Automate for Growth,activation,2723,16,0,0,0,0,0,388.73,0,0.0
+517,79,2024-11-30,in_product,Automate for Growth,consideration,983,37,0,0,0,1,0,86.21,0,0.0
+518,79,2024-07-25,webinar,Grow with Meta,retention,2884,73,0,0,0,0,0,859.34,0,0.0
+519,79,2024-12-28,paid_social,Always On,awareness,8749,621,0,0,0,0,0,972.14,0,0.0
+520,80,2024-09-12,webinar,Grow with Meta,education,624,46,0,0,0,0,0,715.76,0,0.0
+521,80,2024-12-24,in_product,Automate for Growth,education,4612,34,0,0,0,1,1,133.09,0,0.0
+522,80,2024-10-14,in_product,Automate for Growth,education,7452,478,0,0,0,1,0,145.64,0,0.0
+523,80,2024-11-21,paid_social,Measurement Matters,retention,11287,899,0,0,0,0,1,353.59,1,1873.17
+524,80,2024-12-09,sales_outreach,Automate for Growth,consideration,1360,17,0,0,0,0,1,62.8,1,3062.0
+525,80,2024-07-16,webinar,Holiday Growth,retention,74,1,0,0,0,0,0,1060.04,0,0.0
+526,80,2024-07-22,paid_social,Measurement Matters,retention,7179,65,0,0,0,0,0,28.24,0,0.0
+527,80,2024-08-14,paid_social,Measurement Matters,education,17118,269,0,0,0,0,1,107.68,0,0.0
+528,80,2024-11-14,webinar,Automate for Growth,awareness,2569,95,0,0,0,0,1,785.84,0,0.0
+529,81,2024-09-05,sales_outreach,Automate for Growth,activation,1759,66,0,0,0,0,1,143.36,0,0.0
+530,81,2024-08-26,sales_outreach,Automate for Growth,activation,189,14,0,0,0,0,1,26.66,1,6877.19
+531,81,2024-12-08,partner,Measurement Matters,consideration,104,1,0,0,0,0,1,283.92,0,0.0
+532,81,2024-11-14,in_product,Measurement Matters,education,4880,119,0,0,0,1,1,144.17,1,14988.01
+533,81,2024-10-09,organic_search,Holiday Growth,awareness,416,25,0,0,0,0,1,68.83,0,0.0
+534,81,2024-12-26,webinar,Holiday Growth,education,1606,110,0,0,0,0,0,421.3,0,0.0
+535,81,2024-10-13,partner,Always On,activation,533,13,0,0,0,0,1,1111.92,0,0.0
+536,82,2024-07-16,partner,Measurement Matters,consideration,1105,71,0,0,0,0,1,560.5,1,2814.83
+537,82,2024-11-22,email,Holiday Growth,consideration,150,5,0,0,0,0,0,45.5,0,0.0
+538,82,2024-09-17,paid_social,Grow with Meta,consideration,4115,93,0,0,0,0,0,974.03,0,0.0
+539,82,2024-07-29,sales_outreach,Measurement Matters,awareness,1718,121,0,0,0,0,0,82.15,0,0.0
+540,82,2024-09-30,organic_search,Automate for Growth,retention,2610,97,0,0,0,0,1,110.74,0,0.0
+541,82,2024-09-11,partner,Grow with Meta,awareness,705,4,0,0,0,0,0,829.15,0,0.0
+542,82,2024-10-27,email,Measurement Matters,awareness,2747,160,0,0,0,0,1,82.56,0,0.0
+543,82,2024-09-12,partner,Always On,retention,2739,101,0,0,0,0,1,404.84,0,0.0
+544,83,2024-10-16,paid_social,Always On,awareness,23725,233,0,0,0,0,0,704.02,0,0.0
+545,83,2024-07-26,in_product,Grow with Meta,awareness,13277,324,0,0,0,1,0,52.1,0,0.0
+546,83,2024-12-16,paid_social,Automate for Growth,awareness,2986,50,0,0,0,0,0,373.2,0,0.0
+547,83,2024-10-11,partner,Grow with Meta,consideration,2975,56,0,0,0,0,0,142.16,0,0.0
+548,83,2024-12-12,webinar,Always On,activation,2163,79,0,0,0,0,1,170.73,0,0.0
+549,83,2024-12-07,email,Always On,awareness,240,4,1,0,0,0,1,67.01,0,0.0
+550,83,2024-08-31,email,Grow with Meta,activation,367,24,1,1,0,0,1,140.52,0,0.0
+551,83,2024-10-15,sales_outreach,Grow with Meta,awareness,406,19,0,0,0,0,0,97.83,0,0.0
+552,83,2024-12-05,sales_outreach,Grow with Meta,retention,1590,113,0,0,0,0,1,148.15,0,0.0
+553,83,2024-11-12,organic_search,Automate for Growth,consideration,404,19,0,0,0,0,1,146.73,0,0.0
+554,84,2024-09-25,sales_outreach,Always On,education,494,5,0,0,0,0,0,51.11,0,0.0
+555,84,2024-12-21,sales_outreach,Holiday Growth,retention,489,3,0,0,0,0,0,83.72,0,0.0
+556,84,2024-12-01,sales_outreach,Grow with Meta,education,15,0,0,0,0,0,0,116.91,0,0.0
+557,84,2024-07-29,in_product,Always On,activation,3669,278,0,0,0,1,1,4.12,0,0.0
+558,85,2024-11-28,paid_social,Holiday Growth,consideration,4253,306,0,0,0,0,0,1054.94,0,0.0
+559,85,2024-08-28,in_product,Grow with Meta,activation,16070,1014,0,0,0,1,0,72.77,0,0.0
+560,85,2024-09-12,in_product,Always On,awareness,18339,1279,0,0,0,1,0,1.05,0,0.0
+561,85,2024-11-06,sales_outreach,Grow with Meta,awareness,2961,173,0,0,0,0,0,52.78,0,0.0
+562,85,2024-08-04,paid_social,Measurement Matters,activation,21343,517,0,0,0,0,0,232.99,0,0.0
+563,85,2024-10-07,paid_social,Always On,activation,5318,413,0,0,0,0,1,702.1,0,0.0
+564,85,2024-10-22,webinar,Automate for Growth,awareness,1444,98,0,0,1,0,0,23.91,0,0.0
+565,85,2024-10-02,in_product,Measurement Matters,awareness,20308,1152,0,0,0,1,1,127.46,0,0.0
+566,85,2024-08-07,organic_search,Holiday Growth,awareness,225,13,0,0,0,0,0,134.2,0,0.0
+567,85,2024-12-14,email,Always On,consideration,1968,146,1,0,0,0,0,143.25,0,0.0
+568,86,2024-12-06,paid_social,Always On,education,9243,634,0,0,0,0,0,833.81,0,0.0
+569,86,2024-07-03,webinar,Automate for Growth,awareness,561,14,0,0,0,0,0,264.47,0,0.0
+570,86,2024-09-19,sales_outreach,Measurement Matters,awareness,1742,87,0,0,0,0,0,122.11,0,0.0
+571,86,2024-11-18,paid_social,Holiday Growth,consideration,3308,107,0,0,0,0,1,571.53,0,0.0
+572,86,2024-09-23,in_product,Measurement Matters,consideration,23361,1508,0,0,0,1,1,130.16,0,0.0
+573,86,2024-09-09,webinar,Holiday Growth,activation,372,4,0,0,1,0,0,1056.56,0,0.0
+574,86,2024-10-17,organic_search,Grow with Meta,consideration,637,26,0,0,0,0,0,87.78,0,0.0
+575,86,2024-08-05,in_product,Always On,awareness,8087,375,0,0,0,1,1,114.74,0,0.0
+576,86,2024-11-22,in_product,Holiday Growth,retention,16145,479,0,0,0,1,1,35.13,0,0.0
+577,86,2024-12-01,email,Holiday Growth,education,1399,45,1,0,0,0,0,114.36,0,0.0
+578,87,2024-10-03,sales_outreach,Automate for Growth,activation,1571,10,0,0,0,0,1,43.91,0,0.0
+579,87,2024-07-16,partner,Always On,activation,1895,76,0,0,0,0,1,77.59,1,7180.04
+580,87,2024-08-28,email,Holiday Growth,awareness,1482,50,1,0,0,0,0,96.18,0,0.0
+581,87,2024-10-22,paid_social,Automate for Growth,awareness,3202,132,0,0,0,0,1,273.93,1,3192.83
+582,87,2024-07-13,partner,Measurement Matters,retention,1236,52,0,0,0,0,1,550.82,0,0.0
+583,88,2024-08-07,organic_search,Holiday Growth,education,1064,66,0,0,0,0,0,79.21,0,0.0
+584,88,2024-08-04,webinar,Grow with Meta,activation,2115,142,0,0,0,0,0,514.33,0,0.0
+585,88,2024-12-28,sales_outreach,Measurement Matters,consideration,1546,86,0,0,0,0,1,141.84,0,0.0
+586,88,2024-12-25,paid_social,Measurement Matters,consideration,23811,1098,0,0,0,0,0,571.07,0,0.0
+587,88,2024-12-03,webinar,Grow with Meta,activation,514,10,0,0,0,0,0,1003.07,0,0.0
+588,89,2024-10-09,sales_outreach,Always On,education,124,8,0,0,0,0,0,140.42,0,0.0
+589,89,2024-09-05,paid_social,Grow with Meta,consideration,1886,107,0,0,0,0,0,932.9,0,0.0
+590,89,2024-08-07,partner,Holiday Growth,education,105,5,0,0,0,0,0,724.78,0,0.0
+591,89,2024-09-04,webinar,Grow with Meta,consideration,1713,103,0,0,0,0,1,1024.51,0,0.0
+592,89,2024-11-06,paid_social,Always On,activation,22342,1211,0,0,0,0,1,540.28,0,0.0
+593,89,2024-07-08,in_product,Measurement Matters,retention,23288,708,0,0,0,1,1,65.45,1,10714.72
+594,89,2024-08-03,organic_search,Holiday Growth,education,603,41,0,0,0,0,0,129.05,0,0.0
+595,89,2024-07-28,paid_social,Grow with Meta,activation,1955,113,0,0,0,0,1,772.16,0,0.0
+596,89,2024-11-03,partner,Grow with Meta,activation,1520,81,0,0,0,0,0,728.1,0,0.0
+597,90,2024-11-19,email,Holiday Growth,retention,1207,20,0,0,0,0,0,43.34,0,0.0
+598,90,2024-08-23,webinar,Always On,education,954,7,0,0,1,0,1,509.8,0,0.0
+599,90,2024-11-23,paid_social,Always On,awareness,970,70,0,0,0,0,0,1193.88,0,0.0
+600,90,2024-10-27,email,Grow with Meta,education,1091,20,1,0,0,0,1,63.35,1,1536.07
+601,90,2024-07-03,partner,Grow with Meta,consideration,330,11,0,0,0,0,1,1064.51,1,5465.28
+602,91,2024-09-10,paid_social,Holiday Growth,retention,6838,128,0,0,0,0,0,220.25,0,0.0
+603,91,2024-10-22,paid_social,Holiday Growth,education,3708,258,0,0,0,0,0,675.84,0,0.0
+604,91,2024-09-05,webinar,Grow with Meta,education,22,1,0,0,0,0,1,477.24,0,0.0
+605,91,2024-07-28,organic_search,Always On,education,2523,150,0,0,0,0,0,82.51,0,0.0
+606,91,2024-11-04,sales_outreach,Measurement Matters,retention,2477,54,0,0,0,0,0,23.7,0,0.0
+607,91,2024-08-26,partner,Automate for Growth,awareness,357,6,0,0,0,0,0,986.7,0,0.0
+608,91,2024-10-24,organic_search,Holiday Growth,consideration,2307,152,0,0,0,0,1,124.57,0,0.0
+609,91,2024-08-22,partner,Always On,activation,704,27,0,0,0,0,1,773.43,0,0.0
+610,92,2024-11-17,webinar,Holiday Growth,consideration,2567,125,0,0,1,0,0,606.8,0,0.0
+611,92,2024-10-02,partner,Holiday Growth,awareness,12,0,0,0,0,0,0,594.19,0,0.0
+612,92,2024-11-22,paid_social,Measurement Matters,retention,1462,67,0,0,0,0,0,1106.84,0,0.0
+613,92,2024-08-30,email,Always On,awareness,680,12,1,0,0,0,0,44.89,0,0.0
+614,92,2024-08-14,organic_search,Measurement Matters,consideration,1062,48,0,0,0,0,0,87.72,0,0.0
+615,92,2024-07-11,paid_social,Measurement Matters,consideration,8103,165,0,0,0,0,1,201.33,0,0.0
+616,93,2024-08-27,partner,Automate for Growth,consideration,1358,41,0,0,0,0,0,136.23,0,0.0
+617,93,2024-11-19,organic_search,Always On,consideration,2941,165,0,0,0,0,1,128.3,0,0.0
+618,93,2024-08-11,sales_outreach,Automate for Growth,education,853,44,0,0,0,0,0,36.84,0,0.0
+619,93,2024-11-15,in_product,Measurement Matters,awareness,5349,264,0,0,0,1,1,121.78,1,8682.79
+620,93,2024-12-01,paid_social,Holiday Growth,consideration,8830,542,0,0,0,0,1,1055.64,1,11811.1
+621,93,2024-10-11,partner,Measurement Matters,awareness,2506,125,0,0,0,0,1,67.73,1,14521.22
+622,93,2024-07-04,in_product,Holiday Growth,education,15067,424,0,0,0,1,0,24.01,0,0.0
+623,93,2024-07-26,webinar,Always On,education,1099,58,0,0,0,0,0,410.28,0,0.0
+624,93,2024-10-04,paid_social,Measurement Matters,activation,12961,498,0,0,0,0,0,119.85,0,0.0
+625,94,2024-10-11,in_product,Automate for Growth,activation,8981,363,0,0,0,1,1,127.96,0,0.0
+626,94,2024-08-28,email,Grow with Meta,awareness,582,33,0,0,0,0,0,67.29,0,0.0
+627,94,2024-08-05,webinar,Automate for Growth,awareness,2430,41,0,0,0,0,0,322.3,0,0.0
+628,94,2024-09-29,paid_social,Grow with Meta,consideration,5447,315,0,0,0,0,1,829.3,0,0.0
+629,94,2024-12-18,email,Grow with Meta,retention,1110,23,0,0,0,0,1,95.98,0,0.0
+630,95,2024-10-28,in_product,Always On,education,15897,1173,0,0,0,1,0,20.95,0,0.0
+631,95,2024-07-24,organic_search,Always On,retention,2837,171,0,0,0,0,0,23.0,0,0.0
+632,95,2024-12-27,paid_social,Always On,awareness,23207,1540,0,0,0,0,0,810.49,0,0.0
+633,95,2024-10-19,webinar,Holiday Growth,activation,739,44,0,0,0,0,1,651.28,0,0.0
+634,95,2024-11-20,partner,Holiday Growth,consideration,2354,46,0,0,0,0,1,281.37,1,9048.73
+635,95,2024-09-13,email,Holiday Growth,consideration,1467,103,0,0,0,0,1,70.09,0,0.0
+636,95,2024-11-13,email,Measurement Matters,retention,2129,63,0,0,0,0,0,110.29,0,0.0
+637,95,2024-10-12,paid_social,Measurement Matters,awareness,10507,603,0,0,0,0,0,573.39,0,0.0
+638,95,2024-08-13,sales_outreach,Automate for Growth,consideration,2081,51,0,0,0,0,0,98.77,0,0.0
+639,95,2024-11-27,paid_social,Holiday Growth,education,20895,1475,0,0,0,0,0,96.18,0,0.0
+640,96,2024-11-14,paid_social,Measurement Matters,consideration,5657,106,0,0,0,0,0,905.98,0,0.0
+641,96,2024-09-15,sales_outreach,Holiday Growth,education,2719,204,0,0,0,0,0,113.54,0,0.0
+642,96,2024-07-24,webinar,Measurement Matters,education,1685,32,0,0,0,0,0,775.34,0,0.0
+643,96,2024-07-03,paid_social,Grow with Meta,retention,8963,103,0,0,0,0,0,210.0,0,0.0
+644,96,2024-07-01,sales_outreach,Automate for Growth,consideration,2684,97,0,0,0,0,1,104.04,1,6443.69
+645,96,2024-07-18,partner,Holiday Growth,consideration,216,16,0,0,0,0,0,233.05,0,0.0
+646,96,2024-07-22,sales_outreach,Always On,education,162,1,0,0,0,0,1,11.23,0,0.0
+647,96,2024-08-11,paid_social,Automate for Growth,activation,12149,755,0,0,0,0,0,213.16,0,0.0
+648,97,2024-07-06,email,Always On,education,2425,52,0,0,0,0,0,62.98,0,0.0
+649,97,2024-10-16,in_product,Grow with Meta,activation,15921,866,0,0,0,1,1,42.15,1,10433.77
+650,97,2024-07-03,in_product,Grow with Meta,retention,4254,145,0,0,0,1,1,78.86,0,0.0
+651,97,2024-10-17,organic_search,Measurement Matters,education,935,37,0,0,0,0,1,63.55,0,0.0
+652,98,2024-12-12,email,Always On,consideration,843,66,0,0,0,0,0,17.2,0,0.0
+653,98,2024-08-21,organic_search,Grow with Meta,activation,2919,34,0,0,0,0,0,20.58,0,0.0
+654,98,2024-08-15,organic_search,Holiday Growth,activation,1131,81,0,0,0,0,1,137.31,0,0.0
+655,98,2024-07-09,sales_outreach,Holiday Growth,education,1591,70,0,0,0,0,0,63.03,0,0.0
+656,98,2024-10-18,partner,Grow with Meta,activation,1029,51,0,0,0,0,1,1169.61,0,0.0
+657,98,2024-07-23,organic_search,Holiday Growth,retention,1394,17,0,0,0,0,0,2.97,0,0.0
+658,98,2024-08-26,webinar,Holiday Growth,consideration,2313,44,0,0,1,0,1,1058.65,0,0.0
+659,98,2024-09-27,organic_search,Holiday Growth,consideration,1095,11,0,0,0,0,0,32.85,0,0.0
+660,98,2024-11-23,partner,Grow with Meta,education,805,34,0,0,0,0,0,306.63,0,0.0
+661,99,2024-08-05,partner,Holiday Growth,retention,1202,75,0,0,0,0,0,270.47,0,0.0
+662,99,2024-07-17,webinar,Grow with Meta,awareness,170,4,0,0,0,0,1,520.65,0,0.0
+663,99,2024-09-07,webinar,Measurement Matters,awareness,1389,30,0,0,0,0,0,375.54,0,0.0
+664,99,2024-11-26,in_product,Measurement Matters,activation,23794,616,0,0,0,1,1,88.49,1,12072.21
+665,99,2024-07-25,webinar,Automate for Growth,education,319,7,0,0,0,0,1,1015.72,0,0.0
+666,99,2024-10-26,in_product,Grow with Meta,activation,16555,1269,0,0,0,1,0,41.37,0,0.0
+667,100,2024-09-28,in_product,Holiday Growth,consideration,2699,123,0,0,0,1,0,97.77,0,0.0
+668,100,2024-10-12,in_product,Always On,awareness,15315,227,0,0,0,1,0,113.25,0,0.0
+669,100,2024-11-10,organic_search,Always On,retention,2700,73,0,0,0,0,0,77.92,0,0.0
+670,100,2024-07-29,email,Grow with Meta,retention,245,3,0,0,0,0,0,86.53,0,0.0
+671,100,2024-11-21,organic_search,Holiday Growth,awareness,1371,11,0,0,0,0,0,126.19,0,0.0
+672,100,2024-09-25,organic_search,Grow with Meta,education,968,31,0,0,0,0,0,64.26,0,0.0
+673,100,2024-09-01,sales_outreach,Measurement Matters,awareness,1016,38,0,0,0,0,0,88.82,0,0.0
+674,100,2024-10-12,in_product,Holiday Growth,awareness,15829,844,0,0,0,1,0,3.34,0,0.0
+675,100,2024-11-25,webinar,Automate for Growth,awareness,556,10,0,0,1,0,0,1029.15,0,0.0
+676,101,2024-09-23,email,Always On,awareness,2097,81,0,0,0,0,0,32.7,0,0.0
+677,101,2024-12-22,in_product,Measurement Matters,retention,15425,946,0,0,0,1,0,30.65,0,0.0
+678,101,2024-10-11,sales_outreach,Grow with Meta,consideration,2531,177,0,0,0,0,0,72.24,0,0.0
+679,101,2024-08-05,partner,Measurement Matters,awareness,2612,76,0,0,0,0,1,804.89,0,0.0
+680,101,2024-12-27,sales_outreach,Grow with Meta,retention,1866,17,0,0,0,0,0,84.16,0,0.0
+681,101,2024-08-22,partner,Measurement Matters,awareness,1645,92,0,0,0,0,0,488.56,0,0.0
+682,101,2024-07-04,partner,Holiday Growth,education,286,10,0,0,0,0,1,1117.12,0,0.0
+683,101,2024-12-05,partner,Grow with Meta,retention,2377,115,0,0,0,0,0,610.76,0,0.0
+684,102,2024-08-22,webinar,Measurement Matters,activation,655,27,0,0,0,0,0,387.43,0,0.0
+685,102,2024-09-17,email,Always On,consideration,1875,113,0,0,0,0,0,123.35,0,0.0
+686,102,2024-11-15,paid_social,Measurement Matters,awareness,13279,651,0,0,0,0,1,247.5,0,0.0
+687,102,2024-07-05,sales_outreach,Grow with Meta,consideration,973,74,0,0,0,0,1,148.44,0,0.0
+688,102,2024-10-06,organic_search,Always On,education,2317,117,0,0,0,0,0,4.02,0,0.0
+689,102,2024-11-13,email,Measurement Matters,consideration,2527,77,0,0,0,0,1,55.18,0,0.0
+690,102,2024-09-01,paid_social,Grow with Meta,education,18397,1350,0,0,0,0,0,333.52,0,0.0
+691,102,2024-11-15,partner,Grow with Meta,activation,2842,158,0,0,0,0,0,559.09,0,0.0
+692,102,2024-09-08,in_product,Measurement Matters,awareness,16450,1143,0,0,0,1,1,95.1,0,0.0
+693,102,2024-07-14,organic_search,Grow with Meta,activation,2643,117,0,0,0,0,0,113.79,0,0.0
+694,103,2024-08-06,partner,Always On,awareness,1035,73,0,0,0,0,0,867.26,0,0.0
+695,103,2024-07-12,organic_search,Grow with Meta,activation,7,0,0,0,0,0,0,67.32,0,0.0
+696,103,2024-07-08,email,Always On,retention,2454,192,1,0,0,0,0,7.19,0,0.0
+697,103,2024-10-11,email,Measurement Matters,retention,2121,112,0,0,0,0,0,68.14,0,0.0
+698,103,2024-09-14,paid_social,Automate for Growth,retention,19682,1494,0,0,0,0,0,781.54,0,0.0
+699,103,2024-11-26,organic_search,Automate for Growth,retention,124,6,0,0,0,0,1,22.1,0,0.0
+700,103,2024-10-16,paid_social,Always On,awareness,21024,1125,0,0,0,0,0,106.58,0,0.0
+701,103,2024-10-07,in_product,Grow with Meta,education,19410,1094,0,0,0,1,0,132.68,0,0.0
+702,103,2024-07-05,partner,Measurement Matters,retention,1935,68,0,0,0,0,1,668.96,0,0.0
+703,104,2024-10-16,in_product,Measurement Matters,consideration,1862,98,0,0,0,1,0,149.14,0,0.0
+704,104,2024-12-14,organic_search,Measurement Matters,consideration,1104,23,0,0,0,0,0,57.22,0,0.0
+705,104,2024-07-21,organic_search,Measurement Matters,awareness,2138,119,0,0,0,0,0,135.0,0,0.0
+706,104,2024-08-11,sales_outreach,Automate for Growth,education,1210,79,0,0,0,0,0,21.39,0,0.0
+707,105,2024-07-03,webinar,Measurement Matters,retention,77,3,0,0,0,0,1,267.39,0,0.0
+708,105,2024-07-16,organic_search,Measurement Matters,retention,2335,90,0,0,0,0,0,139.03,0,0.0
+709,105,2024-10-05,in_product,Automate for Growth,education,21268,1320,0,0,0,1,1,137.74,0,0.0
+710,105,2024-10-17,partner,Automate for Growth,retention,2826,79,0,0,0,0,0,266.77,0,0.0
+711,105,2024-09-10,partner,Grow with Meta,education,325,18,0,0,0,0,0,947.73,0,0.0
+712,105,2024-08-07,partner,Grow with Meta,consideration,1639,109,0,0,0,0,1,1052.62,0,0.0
+713,105,2024-10-03,partner,Automate for Growth,activation,2937,140,0,0,0,0,0,298.52,0,0.0
+714,106,2024-10-27,paid_social,Always On,retention,6475,498,0,0,0,0,1,46.13,0,0.0
+715,106,2024-11-02,webinar,Measurement Matters,education,1671,43,0,0,1,0,0,372.49,0,0.0
+716,106,2024-10-14,sales_outreach,Always On,retention,207,15,0,0,0,0,1,78.67,0,0.0
+717,106,2024-11-23,paid_social,Always On,activation,364,12,0,0,0,0,0,1159.8,0,0.0
+718,106,2024-12-01,paid_social,Measurement Matters,retention,6198,445,0,0,0,0,0,1182.32,0,0.0
+719,106,2024-09-21,sales_outreach,Always On,activation,2471,158,0,0,0,0,0,37.19,0,0.0
+720,106,2024-12-04,partner,Measurement Matters,consideration,1638,76,0,0,0,0,0,594.52,0,0.0
+721,107,2024-09-03,in_product,Always On,education,405,11,0,0,0,1,1,78.78,1,14239.14
+722,107,2024-10-12,email,Grow with Meta,awareness,1341,26,0,0,0,0,1,114.67,1,14870.11
+723,107,2024-08-07,email,Always On,awareness,273,7,1,0,0,0,0,139.49,0,0.0
+724,107,2024-09-11,partner,Always On,awareness,1250,75,0,0,0,0,0,1023.49,0,0.0
+725,107,2024-08-08,paid_social,Always On,activation,9848,136,0,0,0,0,1,973.83,0,0.0
+726,107,2024-12-19,paid_social,Holiday Growth,consideration,1087,53,0,0,0,0,0,773.31,0,0.0
+727,107,2024-07-03,paid_social,Automate for Growth,retention,24324,1555,0,0,0,0,0,162.52,0,0.0
+728,107,2024-08-29,sales_outreach,Grow with Meta,retention,2659,43,0,0,0,0,0,35.03,0,0.0
+729,107,2024-09-05,in_product,Always On,retention,13980,518,0,0,0,1,0,15.35,0,0.0
+730,107,2024-11-17,in_product,Grow with Meta,consideration,4100,301,0,0,0,1,0,146.51,0,0.0
+731,108,2024-07-01,webinar,Holiday Growth,retention,540,38,0,0,1,0,0,295.21,0,0.0
+732,108,2024-10-31,in_product,Measurement Matters,consideration,13404,168,0,0,0,1,0,85.78,0,0.0
+733,108,2024-09-17,partner,Holiday Growth,consideration,28,0,0,0,0,0,0,954.48,0,0.0
+734,108,2024-10-12,email,Grow with Meta,awareness,2912,50,1,1,0,0,1,99.07,0,0.0
+735,108,2024-11-25,email,Measurement Matters,awareness,2033,84,1,1,0,0,1,145.6,1,6576.13
+736,108,2024-11-30,paid_social,Grow with Meta,retention,22775,683,0,0,0,0,0,1002.99,0,0.0
+737,108,2024-08-17,paid_social,Automate for Growth,consideration,16897,698,0,0,0,0,1,48.38,0,0.0
+738,109,2024-11-04,partner,Holiday Growth,awareness,1838,48,0,0,0,0,0,935.68,0,0.0
+739,109,2024-08-27,in_product,Automate for Growth,awareness,24570,1889,0,0,0,1,0,19.3,0,0.0
+740,109,2024-07-09,email,Always On,consideration,2834,192,1,1,0,0,1,10.69,0,0.0
+741,109,2024-09-07,email,Automate for Growth,activation,1980,113,0,0,0,0,1,80.73,0,0.0
+742,109,2024-09-29,paid_social,Always On,awareness,8382,65,0,0,0,0,0,670.01,0,0.0
+743,109,2024-10-24,organic_search,Automate for Growth,consideration,1419,65,0,0,0,0,1,110.49,1,13480.36
+744,110,2024-07-30,partner,Holiday Growth,awareness,2537,87,0,0,0,0,0,722.73,0,0.0
+745,110,2024-07-04,sales_outreach,Automate for Growth,consideration,2015,134,0,0,0,0,1,42.76,0,0.0
+746,110,2024-09-02,organic_search,Always On,retention,481,21,0,0,0,0,0,149.17,0,0.0
+747,110,2024-11-28,paid_social,Holiday Growth,activation,5840,64,0,0,0,0,0,817.17,0,0.0
+748,110,2024-11-09,partner,Automate for Growth,retention,657,41,0,0,0,0,0,47.89,0,0.0
+749,110,2024-12-16,webinar,Holiday Growth,retention,1636,92,0,0,1,0,0,892.49,0,0.0
+750,110,2024-09-25,webinar,Grow with Meta,activation,51,0,0,0,1,0,0,729.7,0,0.0
+751,110,2024-08-30,organic_search,Automate for Growth,activation,2835,107,0,0,0,0,0,130.04,0,0.0
+752,110,2024-07-06,paid_social,Always On,retention,6557,60,0,0,0,0,1,1182.54,0,0.0
+753,111,2024-11-20,partner,Holiday Growth,awareness,1770,73,0,0,0,0,0,1157.95,0,0.0
+754,111,2024-12-25,webinar,Automate for Growth,education,689,5,0,0,0,0,1,839.15,1,12666.89
+755,111,2024-09-09,email,Always On,consideration,377,7,0,0,0,0,1,58.47,1,5361.64
+756,111,2024-07-09,webinar,Automate for Growth,activation,193,5,0,0,0,0,1,789.77,1,10014.87
+757,112,2024-10-29,sales_outreach,Grow with Meta,activation,2754,217,0,0,0,0,1,47.03,0,0.0
+758,112,2024-07-15,in_product,Always On,education,8934,288,0,0,0,1,1,72.04,0,0.0
+759,112,2024-07-19,sales_outreach,Always On,retention,806,8,0,0,0,0,0,43.39,0,0.0
+760,112,2024-10-08,organic_search,Holiday Growth,education,2987,69,0,0,0,0,1,131.46,0,0.0
+761,112,2024-07-01,partner,Automate for Growth,education,1669,30,0,0,0,0,1,910.73,0,0.0
+762,112,2024-10-23,email,Grow with Meta,education,565,34,1,0,0,0,1,56.1,0,0.0
+763,112,2024-07-11,in_product,Holiday Growth,activation,16939,594,0,0,0,1,1,121.89,0,0.0
+764,112,2024-11-13,paid_social,Grow with Meta,activation,14221,955,0,0,0,0,0,155.12,0,0.0
+765,112,2024-08-25,organic_search,Always On,awareness,33,1,0,0,0,0,0,1.64,0,0.0
+766,112,2024-08-06,webinar,Automate for Growth,education,485,38,0,0,1,0,0,766.91,0,0.0
+767,113,2024-10-03,webinar,Always On,activation,1075,32,0,0,0,0,0,552.08,0,0.0
+768,113,2024-08-17,sales_outreach,Holiday Growth,awareness,2448,79,0,0,0,0,0,86.17,0,0.0
+769,113,2024-11-04,email,Automate for Growth,consideration,2553,149,0,0,0,0,1,145.05,0,0.0
+770,113,2024-09-20,organic_search,Automate for Growth,retention,1120,88,0,0,0,0,0,20.56,0,0.0
+771,114,2024-11-21,organic_search,Grow with Meta,retention,2841,74,0,0,0,0,1,77.07,1,736.2
+772,114,2024-09-23,webinar,Holiday Growth,activation,1595,49,0,0,0,0,1,1063.58,0,0.0
+773,114,2024-11-04,paid_social,Always On,activation,5501,273,0,0,0,0,0,179.29,0,0.0
+774,114,2024-08-05,email,Automate for Growth,retention,1290,74,1,1,0,0,1,15.38,0,0.0
+775,114,2024-10-12,in_product,Grow with Meta,education,999,38,0,0,0,1,1,129.55,1,6613.19
+776,114,2024-08-20,paid_social,Grow with Meta,awareness,11578,752,0,0,0,0,1,604.76,1,5929.65
+777,114,2024-11-05,in_product,Grow with Meta,consideration,7550,422,0,0,0,1,0,13.52,0,0.0
+778,114,2024-08-03,in_product,Measurement Matters,consideration,1769,54,0,0,0,1,0,9.28,0,0.0
+779,115,2024-10-02,email,Measurement Matters,awareness,857,20,1,0,0,0,1,106.45,0,0.0
+780,115,2024-07-14,sales_outreach,Automate for Growth,activation,1311,74,0,0,0,0,0,70.13,0,0.0
+781,115,2024-10-10,email,Holiday Growth,consideration,2346,175,1,0,0,0,0,86.34,0,0.0
+782,115,2024-11-19,partner,Measurement Matters,education,2943,104,0,0,0,0,1,396.12,0,0.0
+783,115,2024-11-18,organic_search,Grow with Meta,consideration,2923,147,0,0,0,0,1,100.58,0,0.0
+784,115,2024-10-31,sales_outreach,Holiday Growth,awareness,1920,16,0,0,0,0,1,36.43,0,0.0
+785,116,2024-08-17,organic_search,Measurement Matters,awareness,1001,69,0,0,0,0,0,15.04,0,0.0
+786,116,2024-12-02,webinar,Holiday Growth,education,1475,55,0,0,1,0,1,980.86,0,0.0
+787,116,2024-09-13,partner,Automate for Growth,awareness,2796,41,0,0,0,0,0,1032.73,0,0.0
+788,116,2024-10-26,paid_social,Holiday Growth,retention,18373,1361,0,0,0,0,1,915.7,0,0.0
+789,116,2024-12-07,partner,Measurement Matters,education,2432,131,0,0,0,0,1,527.16,0,0.0
+790,116,2024-08-31,sales_outreach,Measurement Matters,awareness,2192,153,0,0,0,0,0,7.01,0,0.0
+791,116,2024-08-14,webinar,Always On,consideration,385,9,0,0,0,0,1,740.22,0,0.0
+792,116,2024-11-12,organic_search,Measurement Matters,retention,567,11,0,0,0,0,1,98.98,0,0.0
+793,117,2024-09-23,partner,Automate for Growth,consideration,2756,113,0,0,0,0,0,1034.42,0,0.0
+794,117,2024-11-23,paid_social,Always On,retention,12747,118,0,0,0,0,0,388.33,0,0.0
+795,117,2024-09-01,email,Measurement Matters,education,827,38,1,1,0,0,1,59.0,0,0.0
+796,117,2024-08-02,paid_social,Holiday Growth,activation,24851,930,0,0,0,0,0,934.9,0,0.0
+797,118,2024-07-09,in_product,Holiday Growth,activation,7155,145,0,0,0,1,1,133.01,0,0.0
+798,118,2024-08-23,organic_search,Always On,consideration,2991,122,0,0,0,0,0,66.44,0,0.0
+799,118,2024-12-09,email,Automate for Growth,awareness,976,32,1,0,0,0,1,75.51,0,0.0
+800,118,2024-07-14,sales_outreach,Measurement Matters,activation,154,8,0,0,0,0,0,44.63,0,0.0
+801,118,2024-10-02,organic_search,Always On,education,76,4,0,0,0,0,0,70.99,0,0.0
+802,118,2024-10-19,in_product,Measurement Matters,awareness,14859,542,0,0,0,1,0,138.9,0,0.0
+803,118,2024-12-17,partner,Automate for Growth,activation,164,3,0,0,0,0,0,965.82,0,0.0
+804,119,2024-11-02,organic_search,Always On,education,1687,100,0,0,0,0,1,67.17,0,0.0
+805,119,2024-11-02,email,Always On,retention,2142,159,0,0,0,0,0,85.61,0,0.0
+806,119,2024-12-01,sales_outreach,Always On,activation,1138,77,0,0,0,0,0,11.61,0,0.0
+807,119,2024-09-11,email,Always On,education,2414,146,0,0,0,0,0,2.13,0,0.0
+808,119,2024-08-03,paid_social,Measurement Matters,retention,13663,862,0,0,0,0,0,259.77,0,0.0
+809,119,2024-11-14,organic_search,Grow with Meta,awareness,1561,19,0,0,0,0,1,107.79,0,0.0
+810,119,2024-07-05,organic_search,Grow with Meta,awareness,2523,67,0,0,0,0,0,34.2,0,0.0
+811,119,2024-08-11,paid_social,Measurement Matters,education,22448,870,0,0,0,0,0,1185.25,0,0.0
+812,119,2024-11-05,partner,Automate for Growth,education,2424,188,0,0,0,0,0,365.02,0,0.0
+813,119,2024-11-07,partner,Holiday Growth,awareness,2610,44,0,0,0,0,0,553.31,0,0.0
+814,120,2024-12-14,webinar,Holiday Growth,awareness,2053,91,0,0,0,0,1,540.3,0,0.0
+815,120,2024-11-11,organic_search,Grow with Meta,activation,2693,123,0,0,0,0,0,10.11,0,0.0
+816,120,2024-10-03,sales_outreach,Holiday Growth,consideration,316,24,0,0,0,0,1,108.5,0,0.0
+817,120,2024-09-08,in_product,Holiday Growth,awareness,24498,1922,0,0,0,1,0,145.87,0,0.0
+818,120,2024-09-07,partner,Always On,activation,2784,81,0,0,0,0,0,532.59,0,0.0
+819,120,2024-10-22,paid_social,Measurement Matters,education,22226,1013,0,0,0,0,0,1027.58,0,0.0
+820,120,2024-08-06,in_product,Holiday Growth,awareness,3911,34,0,0,0,1,0,86.09,0,0.0
+821,120,2024-10-24,in_product,Always On,activation,13133,196,0,0,0,1,1,48.4,0,0.0
+822,120,2024-09-21,organic_search,Automate for Growth,consideration,1354,57,0,0,0,0,0,142.05,0,0.0
+823,120,2024-10-19,in_product,Automate for Growth,awareness,11537,144,0,0,0,1,0,38.21,0,0.0
